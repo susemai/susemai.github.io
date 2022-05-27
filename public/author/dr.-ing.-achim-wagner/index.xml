@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr.-Ing. Achim Wagner | Sustainable Embedded AI</title>
+    <link>https://example.com/author/dr.-ing.-achim-wagner/</link>
+      <atom:link href="https://example.com/author/dr.-ing.-achim-wagner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dr.-Ing. Achim Wagner</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/dr.-ing.-achim-wagner/avatar_hu222a1608a2c480a78254af824a7a824c_115181_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Dr.-Ing. Achim Wagner</title>
+      <link>https://example.com/author/dr.-ing.-achim-wagner/</link>
+    </image>
+    
+  </channel>
+</rss>
