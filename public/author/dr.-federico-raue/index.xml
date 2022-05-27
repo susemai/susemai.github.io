@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Federico Raue | Sustainable Embedded AI</title>
+    <link>https://example.com/author/dr.-federico-raue/</link>
+      <atom:link href="https://example.com/author/dr.-federico-raue/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dr. Federico Raue</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/dr.-federico-raue/avatar_hu2e7e09a53ec109f18b7cec30d9bb4ee7_3357_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Dr. Federico Raue</title>
+      <link>https://example.com/author/dr.-federico-raue/</link>
+    </image>
+    
+  </channel>
+</rss>

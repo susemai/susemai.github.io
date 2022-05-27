@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prof. Dr.-Ing. Norbert Wehn | Sustainable Embedded AI</title>
+    <link>https://example.com/author/prof.-dr.-ing.-norbert-wehn/</link>
+      <atom:link href="https://example.com/author/prof.-dr.-ing.-norbert-wehn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prof. Dr.-Ing. Norbert Wehn</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/prof.-dr.-ing.-norbert-wehn/avatar_hu94ac9a71af81de070d3a9cccb2871384_384694_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Prof. Dr.-Ing. Norbert Wehn</title>
+      <link>https://example.com/author/prof.-dr.-ing.-norbert-wehn/</link>
+    </image>
+    
+  </channel>
+</rss>
