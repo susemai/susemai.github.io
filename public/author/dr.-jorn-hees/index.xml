@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Jörn Hees | Sustainable Embedded AI</title>
+    <link>https://example.com/author/dr.-jorn-hees/</link>
+      <atom:link href="https://example.com/author/dr.-jorn-hees/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dr. Jörn Hees</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/dr.-jorn-hees/avatar_hu326bee63f9902608d3dce12fc73560e9_326436_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Dr. Jörn Hees</title>
+      <link>https://example.com/author/dr.-jorn-hees/</link>
+    </image>
+    
+  </channel>
+</rss>
