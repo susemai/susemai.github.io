@@ -5,68 +5,12 @@
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Sustainable Embedded AI</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Apr 2022 15:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
       <title>Sustainable Embedded AI</title>
       <link>https://example.com/</link>
     </image>
-    
-    <item>
-      <title>Logo sketch 1</title>
-      <link>https://example.com/post/22-05-27-logo-sketch-1/</link>
-      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/22-05-27-logo-sketch-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Logo sketch 2</title>
-      <link>https://example.com/post/22-05-27-logo-sketch-2/</link>
-      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/22-05-27-logo-sketch-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Logo sketch 3</title>
-      <link>https://example.com/post/22-05-27-logo-sketch-3/</link>
-      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/22-05-27-logo-sketch-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Logo sketch 4</title>
-      <link>https://example.com/post/22-05-27-logo-sketch-4/</link>
-      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/22-05-27-logo-sketch-4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Logo sketch 5</title>
-      <link>https://example.com/post/22-05-27-logo-sketch-5/</link>
-      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/22-05-27-logo-sketch-5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Logo sketch 6</title>
-      <link>https://example.com/post/22-05-27-logo-sketch-6/</link>
-      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/22-05-27-logo-sketch-6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Logo sketch 7</title>
-      <link>https://example.com/post/22-05-27-logo-sketch-7/</link>
-      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/22-05-27-logo-sketch-7/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Second meeting</title>
@@ -160,22 +104,6 @@
     </item>
     
     <item>
-      <title>Logos</title>
-      <link>https://example.com/logos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/logos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>organigramm</title>
-      <link>https://example.com/organigramm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/organigramm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Partners</title>
       <link>https://example.com/partners/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -196,14 +124,6 @@
       <link>https://example.com/workpackage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/workpackage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Workpages</title>
-      <link>https://example.com/members/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/members/</guid>
       <description></description>
     </item>
     

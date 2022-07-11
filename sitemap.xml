@@ -4,27 +4,13 @@
   
   
   <url>
-    <loc>https://example.com/post/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/22-05-27-logo-sketch-1/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/22-05-27-logo-sketch-2/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/22-05-27-logo-sketch-3/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/22-05-27-logo-sketch-4/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/22-05-27-logo-sketch-5/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/22-05-27-logo-sketch-6/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/22-05-27-logo-sketch-7/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/event/</loc><lastmod>2022-04-28T15:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/event/example/</loc><lastmod>2022-04-28T15:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/</loc><lastmod>2022-04-28T15:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/</loc><lastmod>2022-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/22-04-27-we-did-something/</loc><lastmod>2022-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -68,8 +54,6 @@
   <url>
     <loc>https://example.com/author/dr.-jorn-hees/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/author/dr.-muhammad-mohsin-ghaffar/</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/author/dr.-nicole-thiemer/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/dr.-sungho-suh/</loc><changefreq>weekly</changefreq></url>
@@ -80,11 +64,11 @@
   <url>
     <loc>https://example.com/author/dr.-ing.-vladimir-rybalkin/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/logos/</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/author/msc.-jakub-pawlak/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/msc.-jonas-ney/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/msc.-muhammad-mohsin-ghaffar/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/msc.-rene-schuster/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -93,8 +77,6 @@
     <loc>https://example.com/author/msc.-tatjana-legler/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/msc.-willy-loedts/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/organigramm/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/partners/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -118,6 +100,4 @@
   <url>
     <loc>https://example.com/tour/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/workpackage/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/members/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://example.com/workpackage/</loc><changefreq>weekly</changefreq></url></urlset>
