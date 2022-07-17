@@ -5,7 +5,7 @@
     <link>https://example.com/event/</link>
       <atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Apr 2022 15:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Jul 2022 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
       <title>Recent &amp; Upcoming Events</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Second meeting</title>
-      <link>https://example.com/event/example/</link>
-      <pubDate>Thu, 28 Apr 2022 15:00:00 +0000</pubDate>
-      <guid>https://example.com/event/example/</guid>
+      <title>First Retreat of the Sustainable Embedded AI Project at Villa Denis</title>
+      <link>https://example.com/event/first-retreat/</link>
+      <pubDate>Wed, 13 Jul 2022 09:00:00 +0000</pubDate>
+      <guid>https://example.com/event/first-retreat/</guid>
       <description></description>
     </item>
     

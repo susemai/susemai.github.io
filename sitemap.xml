@@ -4,41 +4,41 @@
   
   
   <url>
-    <loc>https://example.com/event/</loc><lastmod>2022-04-28T15:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/event/first-retreat/</loc><lastmod>2022-07-13T09:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/event/example/</loc><lastmod>2022-04-28T15:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/event/</loc><lastmod>2022-07-13T09:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/</loc><lastmod>2022-04-28T15:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/</loc><lastmod>2022-07-13T09:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/</loc><lastmod>2022-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/22-04-27-we-did-something/</loc><lastmod>2022-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/post/20-12-01-wowchemy-prize/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/publication-type/2/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication-type/3/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/publication/a-weighted-current-summation-based-mixed-signal-dram-pim-architecture-for-deep-neural-network-inference/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/preprint/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/author/andre-guntoro/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/authors/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/authors/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/author/prof.-dr.-rer.-nat.-paul-pawel-lukowicz/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/author/chirag-sudarshan/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/author/christian-weis/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/author/jan-lappas/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tag/source-themes/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/author/matthias-jung/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/author/mohammad-hassani-sadi/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication-type/2/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/author/norbert-wehn/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/journal-article/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/publication_types/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/publication/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/conference-paper/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/author/taha-soliman/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/contact/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -90,6 +90,8 @@
   <url>
     <loc>https://example.com/author/prof.-dr.-rer.-nat.-karsten-berns/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/author/prof.-dr.-rer.-nat.-paul-pawel-lukowicz/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/author/prof.-dr.-ing.-jorg-dorr/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/prof.-dr.-ing.-martin-ruskowski/</loc><changefreq>weekly</changefreq></url>
@@ -97,6 +99,8 @@
     <loc>https://example.com/author/prof.-dr.-ing.-norbert-wehn/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/stephanie-beck/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tour/</loc><changefreq>weekly</changefreq></url>
   <url>
