@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MSc. Mengisti Berihu | Sustainable Embedded AI</title>
+    <link>https://example.com/author/msc.-mengisti-berihu/</link>
+      <atom:link href="https://example.com/author/msc.-mengisti-berihu/index.xml" rel="self" type="application/rss+xml" />
+    <description>MSc. Mengisti Berihu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/msc.-mengisti-berihu/avatar_hu89b87a8743f21146b5b39a6f23e3fa6f_299443_270x270_fill_lanczos_center_3.png</url>
+      <title>MSc. Mengisti Berihu</title>
+      <link>https://example.com/author/msc.-mengisti-berihu/</link>
+    </image>
+    
+  </channel>
+</rss>

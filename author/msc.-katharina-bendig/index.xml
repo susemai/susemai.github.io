@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MSc. Katharina Bendig | Sustainable Embedded AI</title>
+    <link>https://example.com/author/msc.-katharina-bendig/</link>
+      <atom:link href="https://example.com/author/msc.-katharina-bendig/index.xml" rel="self" type="application/rss+xml" />
+    <description>MSc. Katharina Bendig</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
+      <title>MSc. Katharina Bendig</title>
+      <link>https://example.com/author/msc.-katharina-bendig/</link>
+    </image>
+    
+  </channel>
+</rss>
