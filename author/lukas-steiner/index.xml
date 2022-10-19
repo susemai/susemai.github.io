@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mohammad Hassani Sadi | Sustainable Embedded AI</title>
-    <link>https://example.com/author/mohammad-hassani-sadi/</link>
-      <atom:link href="https://example.com/author/mohammad-hassani-sadi/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mohammad Hassani Sadi</description>
+    <title>Lukas Steiner | Sustainable Embedded AI</title>
+    <link>https://example.com/author/lukas-steiner/</link>
+      <atom:link href="https://example.com/author/lukas-steiner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lukas Steiner</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
-      <title>Mohammad Hassani Sadi</title>
-      <link>https://example.com/author/mohammad-hassani-sadi/</link>
+      <title>Lukas Steiner</title>
+      <link>https://example.com/author/lukas-steiner/</link>
     </image>
     
     <item>
@@ -25,14 +25,6 @@
       <link>https://example.com/publication/a-critical-assessment-of-dram-pim-architectures-trends-challenges-and-solutions/</link>
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/a-critical-assessment-of-dram-pim-architectures-trends-challenges-and-solutions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Weighted Current Summation Based Mixed Signal DRAM-PIM Architecture for Deep Neural Network Inference</title>
-      <link>https://example.com/publication/a-weighted-current-summation-based-mixed-signal-dram-pim-architecture-for-deep-neural-network-inference/</link>
-      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/a-weighted-current-summation-based-mixed-signal-dram-pim-architecture-for-deep-neural-network-inference/</guid>
       <description></description>
     </item>
     

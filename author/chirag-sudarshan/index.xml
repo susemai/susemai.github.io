@@ -5,12 +5,36 @@
     <link>https://example.com/author/chirag-sudarshan/</link>
       <atom:link href="https://example.com/author/chirag-sudarshan/index.xml" rel="self" type="application/rss+xml" />
     <description>Chirag Sudarshan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
       <title>Chirag Sudarshan</title>
       <link>https://example.com/author/chirag-sudarshan/</link>
     </image>
+    
+    <item>
+      <title>FeFET versus DRAM based PIM Architectures: A Comparative Study</title>
+      <link>https://example.com/publication/fefet-versus-dram-based-pim-architectures/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fefet-versus-dram-based-pim-architectures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Critical Assessment of DRAM-PIM Architectures - Trends, Challenges and Solutions</title>
+      <link>https://example.com/publication/a-critical-assessment-of-dram-pim-architectures-trends-challenges-and-solutions-copy/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/a-critical-assessment-of-dram-pim-architectures-trends-challenges-and-solutions-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Critical Assessment of DRAM-PIM Architectures - Trends, Challenges and Solutions</title>
+      <link>https://example.com/publication/a-critical-assessment-of-dram-pim-architectures-trends-challenges-and-solutions/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/a-critical-assessment-of-dram-pim-architectures-trends-challenges-and-solutions/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Weighted Current Summation Based Mixed Signal DRAM-PIM Architecture for Deep Neural Network Inference</title>

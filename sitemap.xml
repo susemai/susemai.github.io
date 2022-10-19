@@ -4,41 +4,51 @@
   
   
   <url>
+    <loc>https://example.com/publication-type/2/</loc><lastmod>2022-10-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/authors/</loc><lastmod>2022-10-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/chirag-sudarshan/</loc><lastmod>2022-10-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/christian-weis/</loc><lastmod>2022-10-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/fefet-versus-dram-based-pim-architectures/</loc><lastmod>2022-10-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/norbert-wehn/</loc><lastmod>2022-10-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication_types/</loc><lastmod>2022-10-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/</loc><lastmod>2022-10-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/</loc><lastmod>2022-10-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/taha-soliman/</loc><lastmod>2022-10-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/thomas-kampfe/</loc><lastmod>2022-10-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/a-critical-assessment-of-dram-pim-architectures-trends-challenges-and-solutions-copy/</loc><lastmod>2022-07-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/a-critical-assessment-of-dram-pim-architectures-trends-challenges-and-solutions/</loc><lastmod>2022-07-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/lukas-steiner/</loc><lastmod>2022-07-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/mohammad-hassani-sadi/</loc><lastmod>2022-07-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/event/first-retreat/</loc><lastmod>2022-07-13T09:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/event/</loc><lastmod>2022-07-13T09:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/</loc><lastmod>2022-07-13T09:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/</loc><lastmod>2022-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/22-04-27-we-did-something/</loc><lastmod>2022-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication-type/2/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/publication/a-weighted-current-summation-based-mixed-signal-dram-pim-architecture-for-deep-neural-network-inference/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/andre-guntoro/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/authors/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/chirag-sudarshan/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/christian-weis/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/author/jan-lappas/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/matthias-jung/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/mohammad-hassani-sadi/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/norbert-wehn/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/taha-soliman/</loc><lastmod>2022-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/contact/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -79,8 +89,6 @@
     <loc>https://example.com/author/msc.-tapanta-bhanja/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/msc.-tatjana-legler/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/msc.-willy-loedts/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/partners/</loc><changefreq>weekly</changefreq></url>
   <url>
