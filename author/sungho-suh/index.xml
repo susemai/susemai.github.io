@@ -5,12 +5,20 @@
     <link>https://example.com/author/sungho-suh/</link>
       <atom:link href="https://example.com/author/sungho-suh/index.xml" rel="self" type="application/rss+xml" />
     <description>Sungho Suh</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
       <title>Sungho Suh</title>
       <link>https://example.com/author/sungho-suh/</link>
     </image>
+    
+    <item>
+      <title>A Knowledge Distillation framework for Multi-Organ Segmentation of Medaka Fish in Tomographic Image</title>
+      <link>https://example.com/publication/a-knowledge-distillation-framework-for-multi-organ-segmentation-of-medaka-fish-in-tomographic-image/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/a-knowledge-distillation-framework-for-multi-organ-segmentation-of-medaka-fish-in-tomographic-image/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TASKED: Transformer-based Adversarial learning for human activity recognition using wearable sensors via Self-KnowledgE Distillation</title>

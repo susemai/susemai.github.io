@@ -4,19 +4,39 @@
   
   
   <url>
+    <loc>https://example.com/publication-type/1/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/a-knowledge-distillation-framework-for-multi-organ-segmentation-of-medaka-fish-in-tomographic-image/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/authors/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/didier-stricker/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/jwalin-bhatt/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/katharina-bendig/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/on-the-future-of-training-spiking-neural-networks/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/paul-lukowicz/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication_types/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/rene-schuster/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/sungho-suh/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/tilo-baumbach/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/vincent-heuveline/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/yaroslav-zharov/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/publication-type/2/</loc><lastmod>2022-11-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/authors/</loc><lastmod>2022-11-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/paul-lukowicz/</loc><lastmod>2022-11-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2022-11-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication/</loc><lastmod>2022-11-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/sungho-suh/</loc><lastmod>2022-11-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/</loc><lastmod>2022-11-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/tasked/</loc><lastmod>2022-11-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
