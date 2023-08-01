@@ -4,11 +4,75 @@
   
   
   <url>
-    <loc>https://example.com/publication-type/1/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/publication-type/1/</loc><lastmod>2023-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/authors/</loc><lastmod>2023-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/daehwan-kim/</loc><lastmod>2023-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/daun-jeong/</loc><lastmod>2023-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/hansang-cho/</loc><lastmod>2023-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/hyungmin-kim/</loc><lastmod>2023-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/junmo-kim/</loc><lastmod>2023-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/proxy-anchor-based-unsupervised-learning-for-continuous-generalized-category-discovery/</loc><lastmod>2023-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication_types/</loc><lastmod>2023-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/</loc><lastmod>2023-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/sungho-suh/</loc><lastmod>2023-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/</loc><lastmod>2023-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/clothfit/</loc><lastmod>2023-06-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/kundan-sai-prabhu-thota/</loc><lastmod>2023-06-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/lala-shakti-swarup-ray/</loc><lastmod>2023-06-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/paul-lukowicz/</loc><lastmod>2023-06-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/yunmin-cho/</loc><lastmod>2023-06-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/difficulty-estimation-with-action-scores-for-computer-vision-tasks/</loc><lastmod>2023-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/matias-valdenegro-toro/</loc><lastmod>2023-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/octavio-arriaga/</loc><lastmod>2023-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/sebastian-palacio/</loc><lastmod>2023-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/chemical-property-guided-neural-networks/</loc><lastmod>2023-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/chonghyo-joo/</loc><lastmod>2023-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/hyungtae-cho/</loc><lastmod>2023-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/jaewon-lee/</loc><lastmod>2023-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/jeongdong-kim/</loc><lastmod>2023-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/junghwan-kim/</loc><lastmod>2023-06-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/bo-zhou/</loc><lastmod>2023-05-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/fieldhar/</loc><lastmod>2023-05-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/hyeonseok-hong/</loc><lastmod>2023-05-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/hyun-kim/</loc><lastmod>2023-05-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/mengxi-liu/</loc><lastmod>2023-05-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/vitor-fortes-rey/</loc><lastmod>2023-05-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/zimin-zhao/</loc><lastmod>2023-05-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/a-knowledge-distillation-framework-for-multi-organ-segmentation-of-medaka-fish-in-tomographic-image/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/authors/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/didier-stricker/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -18,17 +82,7 @@
   <url>
     <loc>https://example.com/publication/on-the-future-of-training-spiking-neural-networks/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/author/paul-lukowicz/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/author/rene-schuster/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/sungho-suh/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/tilo-baumbach/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -39,8 +93,6 @@
     <loc>https://example.com/publication-type/2/</loc><lastmod>2022-11-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/tasked/</loc><lastmod>2022-11-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/vitor-fortes-rey/</loc><lastmod>2022-11-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/chirag-sudarshan/</loc><lastmod>2022-11-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

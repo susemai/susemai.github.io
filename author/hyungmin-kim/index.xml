@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hyungmin Kim | Sustainable Embedded AI</title>
+    <link>https://example.com/author/hyungmin-kim/</link>
+      <atom:link href="https://example.com/author/hyungmin-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hyungmin Kim</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
+      <title>Hyungmin Kim</title>
+      <link>https://example.com/author/hyungmin-kim/</link>
+    </image>
+    
+    <item>
+      <title>Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery</title>
+      <link>https://example.com/publication/proxy-anchor-based-unsupervised-learning-for-continuous-generalized-category-discovery/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/proxy-anchor-based-unsupervised-learning-for-continuous-generalized-category-discovery/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

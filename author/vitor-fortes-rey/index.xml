@@ -5,12 +5,20 @@
     <link>https://example.com/author/vitor-fortes-rey/</link>
       <atom:link href="https://example.com/author/vitor-fortes-rey/index.xml" rel="self" type="application/rss+xml" />
     <description>Vitor Fortes Rey</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
       <title>Vitor Fortes Rey</title>
       <link>https://example.com/author/vitor-fortes-rey/</link>
     </image>
+    
+    <item>
+      <title>FieldHAR: A Fully Integrated End-to-end RTL Framework for Human Activity Recognition with Neural Networks from Heterogeneous Sensors</title>
+      <link>https://example.com/publication/fieldhar/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fieldhar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TASKED: Transformer-based Adversarial learning for human activity recognition using wearable sensors via Self-KnowledgE Distillation</title>
