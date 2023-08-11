@@ -5,12 +5,20 @@
     <link>https://example.com/author/christian-weis/</link>
       <atom:link href="https://example.com/author/christian-weis/index.xml" rel="self" type="application/rss+xml" />
     <description>Christian Weis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
       <title>Christian Weis</title>
       <link>https://example.com/author/christian-weis/</link>
     </image>
+    
+    <item>
+      <title>The NWRD Dataset: An Open-Source Annotated Segmentation Dataset of Diseased Wheat Crop</title>
+      <link>https://example.com/publication/nwrd/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nwrd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optimization of DRAM based PIM Architecture for Energy-Efficient Deep Neural Network Training</title>

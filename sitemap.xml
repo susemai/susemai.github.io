@@ -4,9 +4,35 @@
   
   
   <url>
-    <loc>https://example.com/publication-type/1/</loc><lastmod>2023-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/publication-type/2/</loc><lastmod>2023-08-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/authors/</loc><lastmod>2023-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/authors/</loc><lastmod>2023-08-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/christian-weis/</loc><lastmod>2023-08-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/faisal-shafait/</loc><lastmod>2023-08-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/hirra-anwar/</loc><lastmod>2023-08-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/muhammad-fayyaz/</loc><lastmod>2023-08-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/muhammad-jawad-khan/</loc><lastmod>2023-08-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/muhammad-mohsin-ghaffar/</loc><lastmod>2023-08-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/norbert-wehn/</loc><lastmod>2023-08-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication_types/</loc><lastmod>2023-08-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/</loc><lastmod>2023-08-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/saad-ullah-khan/</loc><lastmod>2023-08-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/</loc><lastmod>2023-08-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/nwrd/</loc><lastmod>2023-08-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication-type/1/</loc><lastmod>2023-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/daehwan-kim/</loc><lastmod>2023-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -20,13 +46,7 @@
   <url>
     <loc>https://example.com/publication/proxy-anchor-based-unsupervised-learning-for-continuous-generalized-category-discovery/</loc><lastmod>2023-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2023-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication/</loc><lastmod>2023-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/author/sungho-suh/</loc><lastmod>2023-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/</loc><lastmod>2023-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/clothfit/</loc><lastmod>2023-06-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -90,17 +110,11 @@
   <url>
     <loc>https://example.com/author/yaroslav-zharov/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication-type/2/</loc><lastmod>2022-11-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/publication/tasked/</loc><lastmod>2022-11-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/chirag-sudarshan/</loc><lastmod>2022-11-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/author/christian-weis/</loc><lastmod>2022-11-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/author/mohammad-hassani-sadi/</loc><lastmod>2022-11-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/norbert-wehn/</loc><lastmod>2022-11-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/optimization-of-dram-based-pim-architecture-for-energy-efficient-deep-neural-network-training/</loc><lastmod>2022-11-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
