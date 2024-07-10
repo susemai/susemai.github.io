@@ -5,12 +5,36 @@
     <link>https://example.com/author/paul-lukowicz/</link>
       <atom:link href="https://example.com/author/paul-lukowicz/index.xml" rel="self" type="application/rss+xml" />
     <description>Paul Lukowicz</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
       <title>Paul Lukowicz</title>
       <link>https://example.com/author/paul-lukowicz/</link>
     </image>
+    
+    <item>
+      <title>Worker Activity Recognition in Manufacturing Line Using Near-body Electric Field</title>
+      <link>https://example.com/publication/worker-activity-recognition-in-manufacturing-line/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/worker-activity-recognition-in-manufacturing-line/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Local-Global Feature Fusion Framework for Body-Weight Exercise Recognition with Pressure Mapping Sensors</title>
+      <link>https://example.com/publication/a-local-global-feature-fusion-framework/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/a-local-global-feature-fusion-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-stage Early Prediction Framework of Remaining Useful Life for Lithium-ion Batteries</title>
+      <link>https://example.com/publication/two-stage-early-prediction-framework-of-remaining-useful-life/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/two-stage-early-prediction-framework-of-remaining-useful-life/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ClothFit: Cloth-Human-Attribute Guided Virtual Try-On Network Using 3D Simulated Dataset</title>

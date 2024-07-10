@@ -5,12 +5,20 @@
     <link>https://example.com/author/daehwan-kim/</link>
       <atom:link href="https://example.com/author/daehwan-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Daehwan Kim</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
       <title>Daehwan Kim</title>
       <link>https://example.com/author/daehwan-kim/</link>
     </image>
+    
+    <item>
+      <title>AI-KD: Adversarial learning and Implicit regularization for self-Knowledge Distillation</title>
+      <link>https://example.com/publication/ai-kd/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ai-kd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery</title>

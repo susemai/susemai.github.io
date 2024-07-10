@@ -5,12 +5,36 @@
     <link>https://example.com/publication-type/2/</link>
       <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
       <title>2</title>
       <link>https://example.com/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>AI-KD: Adversarial learning and Implicit regularization for self-Knowledge Distillation</title>
+      <link>https://example.com/publication/ai-kd/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ai-kd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ContextMix: A context-aware data augmentation method for industrial visual inspection systems</title>
+      <link>https://example.com/publication/contextmix/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/contextmix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Worker Activity Recognition in Manufacturing Line Using Near-body Electric Field</title>
+      <link>https://example.com/publication/worker-activity-recognition-in-manufacturing-line/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/worker-activity-recognition-in-manufacturing-line/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The NWRD Dataset: An Open-Source Annotated Segmentation Dataset of Diseased Wheat Crop</title>

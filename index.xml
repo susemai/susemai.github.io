@@ -5,12 +5,76 @@
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Sustainable Embedded AI</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
       <title>Sustainable Embedded AI</title>
       <link>https://example.com/</link>
     </image>
+    
+    <item>
+      <title>Selbstverständlich digital</title>
+      <link>https://example.com/publication/selbstverstandlich-digital/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/selbstverstandlich-digital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI-KD: Adversarial learning and Implicit regularization for self-Knowledge Distillation</title>
+      <link>https://example.com/publication/ai-kd/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ai-kd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ContextMix: A context-aware data augmentation method for industrial visual inspection systems</title>
+      <link>https://example.com/publication/contextmix/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/contextmix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Worker Activity Recognition in Manufacturing Line Using Near-body Electric Field</title>
+      <link>https://example.com/publication/worker-activity-recognition-in-manufacturing-line/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/worker-activity-recognition-in-manufacturing-line/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Local-Global Feature Fusion Framework for Body-Weight Exercise Recognition with Pressure Mapping Sensors</title>
+      <link>https://example.com/publication/a-local-global-feature-fusion-framework/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/a-local-global-feature-fusion-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ShapeAug: Occlusion Augmentation for Event Camera Data</title>
+      <link>https://example.com/publication/shapeaug/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/shapeaug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-stage Early Prediction Framework of Remaining Useful Life for Lithium-ion Batteries</title>
+      <link>https://example.com/publication/two-stage-early-prediction-framework-of-remaining-useful-life/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/two-stage-early-prediction-framework-of-remaining-useful-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DWA: Differential Wavelet Amplifier for Image Super-Resolution</title>
+      <link>https://example.com/publication/dwa/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dwa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The NWRD Dataset: An Open-Source Annotated Segmentation Dataset of Diseased Wheat Crop</title>

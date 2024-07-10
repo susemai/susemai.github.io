@@ -5,12 +5,20 @@
     <link>https://example.com/author/lala-shakti-swarup-ray/</link>
       <atom:link href="https://example.com/author/lala-shakti-swarup-ray/index.xml" rel="self" type="application/rss+xml" />
     <description>Lala Shakti Swarup Ray</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
       <title>Lala Shakti Swarup Ray</title>
       <link>https://example.com/author/lala-shakti-swarup-ray/</link>
     </image>
+    
+    <item>
+      <title>A Novel Local-Global Feature Fusion Framework for Body-Weight Exercise Recognition with Pressure Mapping Sensors</title>
+      <link>https://example.com/publication/a-local-global-feature-fusion-framework/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/a-local-global-feature-fusion-framework/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ClothFit: Cloth-Human-Attribute Guided Virtual Try-On Network Using 3D Simulated Dataset</title>
