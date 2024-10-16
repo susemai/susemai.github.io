@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Sensor data augmentation from skeleton pose sequences for improving human activity recognition</title>
+      <link>https://example.com/publication/sensor-data-augmentation-from-skeleton-pose-sequences/</link>
+      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sensor-data-augmentation-from-skeleton-pose-sequences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FieldHAR: A Fully Integrated End-to-end RTL Framework for Human Activity Recognition with Neural Networks from Heterogeneous Sensors</title>
       <link>https://example.com/publication/fieldhar/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>

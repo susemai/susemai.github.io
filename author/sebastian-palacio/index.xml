@@ -5,12 +5,28 @@
     <link>https://example.com/author/sebastian-palacio/</link>
       <atom:link href="https://example.com/author/sebastian-palacio/index.xml" rel="self" type="application/rss+xml" />
     <description>Sebastian Palacio</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
       <title>Sebastian Palacio</title>
       <link>https://example.com/author/sebastian-palacio/</link>
     </image>
+    
+    <item>
+      <title>Waving Goodbye to Low-Res: A Diffusion-Wavelet Approach for Image Super-Resolution</title>
+      <link>https://example.com/publication/waving-goodbye-to-lowres/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/waving-goodbye-to-lowres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TaylorShift: Shifting the Complexity of Self-Attention from Squared to Linear (and Back) using Taylor-Softmax</title>
+      <link>https://example.com/publication/taylorshift/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/taylorshift/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DWA: Differential Wavelet Amplifier for Image Super-Resolution</title>

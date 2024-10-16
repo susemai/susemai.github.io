@@ -5,12 +5,20 @@
     <link>https://example.com/author/bo-zhou/</link>
       <atom:link href="https://example.com/author/bo-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>Bo Zhou</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
       <title>Bo Zhou</title>
       <link>https://example.com/author/bo-zhou/</link>
     </image>
+    
+    <item>
+      <title>Remaining useful life prediction of Lithium-ion batteries using spatio-temporal multimodal attention networks</title>
+      <link>https://example.com/publication/remaining-useful-life-prediction/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/remaining-useful-life-prediction/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Worker Activity Recognition in Manufacturing Line Using Near-body Electric Field</title>
