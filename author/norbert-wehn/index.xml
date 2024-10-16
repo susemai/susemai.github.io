@@ -5,12 +5,20 @@
     <link>https://example.com/author/norbert-wehn/</link>
       <atom:link href="https://example.com/author/norbert-wehn/index.xml" rel="self" type="application/rss+xml" />
     <description>Norbert Wehn</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
       <title>Norbert Wehn</title>
       <link>https://example.com/author/norbert-wehn/</link>
     </image>
+    
+    <item>
+      <title>Novel adaptive quantization methodology for 8-bit floating-point DNN training</title>
+      <link>https://example.com/publication/novel-adaptive-quantization-methodology/</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/novel-adaptive-quantization-methodology/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The NWRD Dataset: An Open-Source Annotated Segmentation Dataset of Diseased Wheat Crop</title>

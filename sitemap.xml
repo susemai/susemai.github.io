@@ -68,6 +68,16 @@
   <url>
     <loc>https://example.com/author/pyunghwan-ahn/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/publication/leafbased-medicinal-plant-classification/</loc><lastmod>2024-04-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/exploring-explainability-formats/</loc><lastmod>2024-04-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/felix-mohrle/</loc><lastmod>2024-04-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/mengisti-berihu-girmay/</loc><lastmod>2024-04-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/samuel-obeng/</loc><lastmod>2024-04-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/author/hooman-tavakoli-ghinani/</loc><lastmod>2024-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/joze-m-rozanec/</loc><lastmod>2024-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -112,6 +122,14 @@
   <url>
     <loc>https://example.com/publication/shapeaug/</loc><lastmod>2024-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/author/chirag-sudarshan/</loc><lastmod>2024-02-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/mohammad-hassani-sadi/</loc><lastmod>2024-02-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/norbert-wehn/</loc><lastmod>2024-02-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/novel-adaptive-quantization-methodology/</loc><lastmod>2024-02-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/publication/federated-ensemble-yolov5/</loc><lastmod>2023-11-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/vinit-hegiste/</loc><lastmod>2023-11-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -141,8 +159,6 @@
     <loc>https://example.com/author/muhammad-jawad-khan/</loc><lastmod>2023-08-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/muhammad-mohsin-ghaffar/</loc><lastmod>2023-08-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/norbert-wehn/</loc><lastmod>2023-08-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/author/saad-ullah-khan/</loc><lastmod>2023-08-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -195,10 +211,6 @@
     <loc>https://example.com/author/yaroslav-zharov/</loc><lastmod>2023-02-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/tasked/</loc><lastmod>2022-11-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/chirag-sudarshan/</loc><lastmod>2022-11-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/mohammad-hassani-sadi/</loc><lastmod>2022-11-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/optimization-of-dram-based-pim-architecture-for-energy-efficient-deep-neural-network-training/</loc><lastmod>2022-11-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

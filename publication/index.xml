@@ -53,6 +53,22 @@
     </item>
     
     <item>
+      <title>Explainable AI: Leaf-based medicinal plant classification using knowledge distillation</title>
+      <link>https://example.com/publication/leafbased-medicinal-plant-classification/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/leafbased-medicinal-plant-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring explainability formats to aid decision-making in dairy farming systems</title>
+      <link>https://example.com/publication/exploring-explainability-formats/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/exploring-explainability-formats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Worker Activity Recognition in Manufacturing Line Using Near-body Electric Field</title>
       <link>https://example.com/publication/worker-activity-recognition-in-manufacturing-line/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
@@ -89,6 +105,14 @@
       <link>https://example.com/publication/shapeaug/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/shapeaug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel adaptive quantization methodology for 8-bit floating-point DNN training</title>
+      <link>https://example.com/publication/novel-adaptive-quantization-methodology/</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/novel-adaptive-quantization-methodology/</guid>
       <description></description>
     </item>
     

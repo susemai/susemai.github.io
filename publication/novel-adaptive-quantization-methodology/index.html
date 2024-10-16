@@ -65,10 +65,10 @@
   
     
   
-  <meta name="description" content="Energy- and data-saving methods for environmental perception in embedded AI systems using the case study of smart factory and smart farming applications." />
+  <meta name="description" content="There is a high energy cost associated with training Deep Neural Networks (DNNs). Off-chip memory access contributes a major portion to the overall energy consumption. Reduction in the number of off-chip memory transactions can be achieved by quantizing the data words to low data bit-width (E.g., 8-bit). However, low-bit-width data formats suffer from a limited dynamic range, resulting in reduced accuracy. In this paper, a novel 8-bit Floating Point (FP8) data format quantized DNN training methodology is presented, which adapts to the required dynamic range on-the-fly. Our methodology relies on varying the bias values of FP8 format to fit the dynamic range to the required range of DNN parameters and input feature maps. The range fitting during the training is adaptively performed by an online statistical analysis hardware unit without stalling the computation units or its data accesses. Our approach is compatible with any DNN compute cores without any major modifications to the architecture. We propose to integrate the new FP8 quantization unit in the memory controller. The FP32 data from the compute core are converted to FP8 in the memory controller before writing to the DRAM and converted back after reading the data from DRAM. Our results show that the DRAM access energy is reduced by 3.07 while using an 8-bit data format instead of using 32-bit. The accuracy loss of the proposed methodology with 8-bit quantized training is  for various networks with image and natural language processing datasets." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://example.com/authors/" />
+  <link rel="alternate" hreflang="en-us" href="https://example.com/publication/novel-adaptive-quantization-methodology/" />
 
   
   
@@ -269,8 +269,6 @@
   
 
   
-    <link rel="alternate" href="/authors/index.xml" type="application/rss+xml" title="Sustainable Embedded AI" />
-  
 
   
     <link rel="manifest" href="/manifest.webmanifest" />
@@ -279,7 +277,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hua67e908a636ffa0babddfa7174cc5559_20561_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua67e908a636ffa0babddfa7174cc5559_20561_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://example.com/authors/" />
+  <link rel="canonical" href="https://example.com/publication/novel-adaptive-quantization-methodology/" />
 
   
   
@@ -302,33 +300,80 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Sustainable Embedded AI" />
-  <meta property="og:url" content="https://example.com/authors/" />
-  <meta property="og:title" content="Authors | Sustainable Embedded AI" />
-  <meta property="og:description" content="Energy- and data-saving methods for environmental perception in embedded AI systems using the case study of smart factory and smart farming applications." /><meta property="og:image" content="https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png" />
+  <meta property="og:url" content="https://example.com/publication/novel-adaptive-quantization-methodology/" />
+  <meta property="og:title" content="Novel adaptive quantization methodology for 8-bit floating-point DNN training | Sustainable Embedded AI" />
+  <meta property="og:description" content="There is a high energy cost associated with training Deep Neural Networks (DNNs). Off-chip memory access contributes a major portion to the overall energy consumption. Reduction in the number of off-chip memory transactions can be achieved by quantizing the data words to low data bit-width (E.g., 8-bit). However, low-bit-width data formats suffer from a limited dynamic range, resulting in reduced accuracy. In this paper, a novel 8-bit Floating Point (FP8) data format quantized DNN training methodology is presented, which adapts to the required dynamic range on-the-fly. Our methodology relies on varying the bias values of FP8 format to fit the dynamic range to the required range of DNN parameters and input feature maps. The range fitting during the training is adaptively performed by an online statistical analysis hardware unit without stalling the computation units or its data accesses. Our approach is compatible with any DNN compute cores without any major modifications to the architecture. We propose to integrate the new FP8 quantization unit in the memory controller. The FP32 data from the compute core are converted to FP8 in the memory controller before writing to the DRAM and converted back after reading the data from DRAM. Our results show that the DRAM access energy is reduced by 3.07 while using an 8-bit data format instead of using 32-bit. The accuracy loss of the proposed methodology with 8-bit quantized training is  for various networks with image and natural language processing datasets." /><meta property="og:image" content="https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png" />
     <meta property="twitter:image" content="https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2024-09-09T00:00:00&#43;00:00" />
+      <meta
+        property="article:published_time"
+        content="2024-02-16T00:00:00&#43;00:00"
+      />
     
+    <meta property="article:modified_time" content="2024-02-16T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://example.com/publication/novel-adaptive-quantization-methodology/"
+  },
+  "headline": "Novel adaptive quantization methodology for 8-bit floating-point DNN training",
+  
+  "datePublished": "2024-02-16T00:00:00Z",
+  "dateModified": "2024-02-16T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Mohammad Hassani Sadi"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sustainable Embedded AI",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_192x192_fit_lanczos_3.png"
+    }
+  },
+  "description": "There is a high energy cost associated with training Deep Neural Networks (DNNs). Off-chip memory access contributes a major portion to the overall energy consumption. Reduction in the number of off-chip memory transactions can be achieved by quantizing the data words to low data bit-width (E.g., 8-bit). However, low-bit-width data formats suffer from a limited dynamic range, resulting in reduced accuracy. In this paper, a novel 8-bit Floating Point (FP8) data format quantized DNN training methodology is presented, which adapts to the required dynamic range on-the-fly. Our methodology relies on varying the bias values of FP8 format to fit the dynamic range to the required range of DNN parameters and input feature maps. The range fitting during the training is adaptively performed by an online statistical analysis hardware unit without stalling the computation units or its data accesses. Our approach is compatible with any DNN compute cores without any major modifications to the architecture. We propose to integrate the new FP8 quantization unit in the memory controller. The FP32 data from the compute core are converted to FP8 in the memory controller before writing to the DRAM and converted back after reading the data from DRAM. Our results show that the DRAM access energy is reduced by 3.07 while using an 8-bit data format instead of using 32-bit. The accuracy loss of the proposed methodology with 8-bit quantized training is  for various networks with image and natural language processing datasets."
+}
+</script>
+
+  
+
+  
+
   
 
   
 
 
 
-  
-
-  
 
 
-
-
-
-  <title>Authors | Sustainable Embedded AI</title>
+  <title>Novel adaptive quantization methodology for 8-bit floating-point DNN training | Sustainable Embedded AI</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="b444eead45eea2e77de57077948d8576" >
 
   
   
@@ -634,6 +679,15 @@
 
 
 
+<div class="pub">
+
+  
+
+
+
+
+
+
 
 
 
@@ -644,70 +698,209 @@
 
   
   
+  
+<div class="article-container pt-3">
+  <h1>Novel adaptive quantization methodology for 8-bit floating-point DNN training</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/mohammad-hassani-sadi/">Mohammad Hassani Sadi</a></span>, <span >
+      <a href="/author/chirag-sudarshan/">Chirag Sudarshan</a></span>, <span >
+      <a href="/author/norbert-wehn/">Norbert Wehn</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    February 2024
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>Authors</h1>
 
-  
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://link.springer.com/article/10.1007/s10617-024-09282-2" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/doi.org/10.1007/s10617-024-09282-2" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">There is a high energy cost associated with training Deep Neural Networks (DNNs). Off-chip memory access contributes a major portion to the overall energy consumption. Reduction in the number of off-chip memory transactions can be achieved by quantizing the data words to low data bit-width (E.g., 8-bit). However, low-bit-width data formats suffer from a limited dynamic range, resulting in reduced accuracy. In this paper, a novel 8-bit Floating Point (FP8) data format quantized DNN training methodology is presented, which adapts to the required dynamic range on-the-fly. Our methodology relies on varying the bias values of FP8 format to fit the dynamic range to the required range of DNN parameters and input feature maps. The range fitting during the training is adaptively performed by an online statistical analysis hardware unit without stalling the computation units or its data accesses. Our approach is compatible with any DNN compute cores without any major modifications to the architecture. We propose to integrate the new FP8 quantization unit in the memory controller. The FP32 data from the compute core are converted to FP8 in the memory controller before writing to the DRAM and converted back after reading the data from DRAM. Our results show that the DRAM access energy is reduced by 3.07 while using an 8-bit data format instead of using 32-bit. The accuracy loss of the proposed methodology with 8-bit quantized training is  for various networks with image and natural language processing datasets.</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#2">
+              Journal article
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Design Automation for Embedded Systems, 2024</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
   
 
-  <ul>
-    
-    
-      
-      <li><a href="https://example.com/author/chirag-sudarshan/">Chirag Sudarshan</a></li>
-    
-      
-      <li><a href="https://example.com/author/mohammad-hassani-sadi/">Mohammad Hassani Sadi</a></li>
-    
-      
-      <li><a href="https://example.com/author/norbert-wehn/">Norbert Wehn</a></li>
-    
-      
-      <li><a href="https://example.com/author/vinit-hegiste/">Vinit Hegiste</a></li>
-    
-      
-      <li><a href="https://example.com/author/brian-b-moser/">Brian B Moser</a></li>
-    
-      
-      <li><a href="https://example.com/author/hyun-kim/">Hyun Kim</a></li>
-    
-      
-      <li><a href="https://example.com/author/lala-ray/">Lala Ray</a></li>
-    
-      
-      <li><a href="https://example.com/author/parham-zolfaghari/">Parham Zolfaghari</a></li>
-    
-      
-      <li><a href="https://example.com/author/christian-weis/">Christian Weis</a></li>
-    
-      
-      <li><a href="https://example.com/author/faisal-shafait/">Faisal Shafait</a></li>
-    
-  </ul>
-
-  
-<nav class="mt-1">
-  <ul class="pagination justify-content-center">
-    
-    <li class="page-item"><a class="page-link" href="/authors/page/4/">&laquo;</a></li>
-    
-    
-    <li class="page-item"><a class="page-link" href="/authors/page/6/">&raquo;</a></li>
-    
-  </ul>
-</nav>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
 </div>
   </div>
 
