@@ -5,12 +5,49 @@
     <link>https://example.com/author/dr.-ing.-achim-wagner/</link>
       <atom:link href="https://example.com/author/dr.-ing.-achim-wagner/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr.-Ing. Achim Wagner</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/author/dr.-ing.-achim-wagner/avatar_hu222a1608a2c480a78254af824a7a824c_115181_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://example.com/author/dr.-ing.-achim-wagner/avatar_hu_e18723165c59002c.jpg</url>
       <title>Dr.-Ing. Achim Wagner</title>
       <link>https://example.com/author/dr.-ing.-achim-wagner/</link>
     </image>
+    
+    <item>
+      <title>Dr.-Ing. Achim Wagner</title>
+      <link>https://example.com/author/dr.-ing.-achim-wagner/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/author/dr.-ing.-achim-wagner/</guid>
+      <description>&lt;p&gt;PD Dr.-Ing. Achim Wagner (born 1968) is the scientific head of the research area Innovative Factory Systems at the German Research Center for Artificial Intelligence and lecturer in the field of automation technology at the Technical University of Kaiserslautern.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Federated Residual Reinforcement Learning for Collaborative Robot Skill Learning in Industry</title>
+      <link>https://example.com/publication/federated-residual-reinforcement-learning-for-coll/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/federated-residual-reinforcement-learning-for-coll/</guid>
+      <description>&lt;p&gt;Citation:
+K. Abuibaid, V. Hegiste, T. Legler, A. Wagner and M. Ruskowski, &amp;ldquo;Federated Residual Reinforcement Learning for Collaborative Robot Skill Learning in Industry,&amp;rdquo; 2025 3rd International Conference on Federated Learning Technologies and Applications (FLTA), Dubrovnik, Croatia, 2025, pp. 530-536, doi: 10.1109/FLTA67013.2025.11336679.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sustainable Transfer Learning for Adaptive Robot Skills</title>
+      <link>https://example.com/publication/sustainable-transfer-learning-for-adaptive-robot-s/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sustainable-transfer-learning-for-adaptive-robot-s/</guid>
+      <description>&lt;p&gt;Citation:
+K. Abuibaid, V. Hegiste, N. Gafur, A. Wagner and M. Ruskowski,. “Sustainable Transfer Learning for Adaptive Robot Skills”. In: Advances in Service and Industrial Robotics. Springer Nature Switzerland, 2025, pp. 389–397.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The need for neuromorphic computing in industrial robotics</title>
+      <link>https://example.com/publication/the-need-for-neuromorphic-computing/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/the-need-for-neuromorphic-computing/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

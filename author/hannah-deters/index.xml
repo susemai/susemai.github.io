@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hannah Deters | Sustainable Embedded AI</title>
+    <link>http://localhost:1313/author/hannah-deters/</link>
+      <atom:link href="http://localhost:1313/author/hannah-deters/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hannah Deters</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_2d02672550b6c111.png</url>
+      <title>Hannah Deters</title>
+      <link>http://localhost:1313/author/hannah-deters/</link>
+    </image>
+    
+    <item>
+      <title>Explainability Needs in Agriculture: Exploring Dairy Farmers’ User Personas</title>
+      <link>http://localhost:1313/publication/explainability-needs-in-agriculture-exploring-dair/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/explainability-needs-in-agriculture-exploring-dair/</guid>
+      <description>&lt;p&gt;Citation:
+MB. Girmay, F. Möhrle. “Perspectives on Explanation Formats from Two Stakeholder Groups in Germany: Software Providers and Dairy Farmers”. IJCAI(XAI),2024.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

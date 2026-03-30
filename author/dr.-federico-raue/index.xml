@@ -5,12 +5,47 @@
     <link>https://example.com/author/dr.-federico-raue/</link>
       <atom:link href="https://example.com/author/dr.-federico-raue/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Federico Raue</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/author/dr.-federico-raue/avatar_hu2e7e09a53ec109f18b7cec30d9bb4ee7_3357_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://example.com/author/dr.-federico-raue/avatar_hu_7609afb3006afbaa.jpg</url>
       <title>Dr. Federico Raue</title>
       <link>https://example.com/author/dr.-federico-raue/</link>
     </image>
+    
+    <item>
+      <title>Dr. Federico Raue</title>
+      <link>https://example.com/author/dr.-federico-raue/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/author/dr.-federico-raue/</guid>
+      <description>&lt;p&gt;Federico Raue is a senior researcher in Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers</title>
+      <link>https://example.com/publication/which-transformer-to-favor-a-comparative-analysis-/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/which-transformer-to-favor-a-comparative-analysis-/</guid>
+      <description>&lt;p&gt;Citation:
+T. C. Nauen, S. Palacio, F. Raue, A. Dengel, „Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers“, IEEE/CVF Winter Conference on Applications of Computer Vision, WACV, 2025&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Waving Goodbye to Low-Res: A Diffusion-Wavelet Approach for Image Super-Resolution</title>
+      <link>https://example.com/publication/waving-goodbye-to-lowres/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/waving-goodbye-to-lowres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DWA: Differential Wavelet Amplifier for Image Super-Resolution</title>
+      <link>https://example.com/publication/dwa/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dwa/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

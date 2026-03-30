@@ -5,12 +5,29 @@
     <link>https://example.com/author/msc.-tapanta-bhanja/</link>
       <atom:link href="https://example.com/author/msc.-tapanta-bhanja/index.xml" rel="self" type="application/rss+xml" />
     <description>MSc. Tapanta Bhanja</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/author/msc.-tapanta-bhanja/avatar_huc00d666ad7342b94e9924a0652948f66_37503_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://example.com/author/msc.-tapanta-bhanja/avatar_hu_656b15ef90c0eb39.jpg</url>
       <title>MSc. Tapanta Bhanja</title>
       <link>https://example.com/author/msc.-tapanta-bhanja/</link>
     </image>
+    
+    <item>
+      <title>MSc. Tapanta Bhanja</title>
+      <link>https://example.com/author/msc.-tapanta-bhanja/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/author/msc.-tapanta-bhanja/</guid>
+      <description>&lt;p&gt;Tapanta Bhanja is a researcher at Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The need for neuromorphic computing in industrial robotics</title>
+      <link>https://example.com/publication/the-need-for-neuromorphic-computing/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/the-need-for-neuromorphic-computing/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

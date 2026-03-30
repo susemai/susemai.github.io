@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anita Schöbel | Sustainable Embedded AI</title>
+    <link>https://example.com/author/anita-schobel/</link>
+      <atom:link href="https://example.com/author/anita-schobel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anita Schöbel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/media/logo_hu_2d02672550b6c111.png</url>
+      <title>Anita Schöbel</title>
+      <link>https://example.com/author/anita-schobel/</link>
+    </image>
+    
+    <item>
+      <title>Prof. Dr. Anita Schöbel</title>
+      <link>https://example.com/author/prof.-dr.-anita-schobel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/author/prof.-dr.-anita-schobel/</guid>
+      <description>&lt;p&gt;Anita Schöbel is professor in the mathematics department at the TU Kaiserslautern and head of the Fraunhofer Institute for Industrial Mathematics (ITWM)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

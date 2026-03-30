@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vidit Goyal | Sustainable Embedded AI</title>
+    <link>https://example.com/author/vidit-goyal/</link>
+      <atom:link href="https://example.com/author/vidit-goyal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vidit Goyal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo_hu_2d02672550b6c111.png</url>
+      <title>Vidit Goyal</title>
+      <link>https://example.com/author/vidit-goyal/</link>
+    </image>
+    
+    <item>
+      <title>Federated Action Recognition for Smart Worker Assistance Using FastPose</title>
+      <link>https://example.com/publication/federated-action-recognition-for-smart-worker-assi/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/federated-action-recognition-for-smart-worker-assi/</guid>
+      <description>&lt;p&gt;Citation:
+V. Hegiste, V. Goyal, T. Legler, M. Ruskowski. &amp;ldquo;Federated Action Recognition for Smart Worker Assistance Using FastPose.&amp;rdquo; In: Proceedings of the 2025 3rd International Conference on Federated Learning Technologies and Applications (FLTA). IEEE, 2025. DOI: 10.1109/FLTA67013.2025.11336524.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

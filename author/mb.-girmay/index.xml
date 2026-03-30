@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MB. Girmay | Sustainable Embedded AI</title>
+    <link>http://localhost:1313/author/mb.-girmay/</link>
+      <atom:link href="http://localhost:1313/author/mb.-girmay/index.xml" rel="self" type="application/rss+xml" />
+    <description>MB. Girmay</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_2d02672550b6c111.png</url>
+      <title>MB. Girmay</title>
+      <link>http://localhost:1313/author/mb.-girmay/</link>
+    </image>
+    
+    <item>
+      <title>Explainable AI: Leaf-based medicinal plant classification using knowledge distillation</title>
+      <link>http://localhost:1313/publication/explainable-ai-leaf-based-medicinal-plant-classifi/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/explainable-ai-leaf-based-medicinal-plant-classifi/</guid>
+      <description>&lt;p&gt;Citation:
+[21] MB. Girmay, S. Obeng, and F. Möhrle, “Explainable AI: Leaf-based medicinal plant classification using knowledge distillation”.44. GIL-Jahrestagung, Biodiversität fördern durch digitale Landwirtschaft: Welchen Beitrag leisten KI und Co?, 2024&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducing Explainability to Dairy Farming - A Small Case Study</title>
+      <link>http://localhost:1313/publication/introducing-explainability-to-dairy-farming-a-smal/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/introducing-explainability-to-dairy-farming-a-smal/</guid>
+      <description>&lt;p&gt;Citation:
+[22] MB. Girmay, F. Möhrle, and J. Henningsen. “Introducing Explainability to Dairy Farming - A Small Case Study”. 44. GIL- Jahrestagung, Biodiversität fördern durch digitale Landwirtschaft: Welchen Beitrag leisten KI und Co?, 2024&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Perspectives on Explanation Formats from Two Stakeholder Groups in Germany: Software Providers and Dairy Farmers</title>
+      <link>http://localhost:1313/publication/perspectives-on-explanation-formats-from-two-stake/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/perspectives-on-explanation-formats-from-two-stake/</guid>
+      <description>&lt;p&gt;Citation:
+[23] MB. Girmay, F. Möhrle. “Perspectives on Explanation Formats from Two Stakeholder Groups in Germany: Software Providers and Dairy Farmers”. IJCAI(XAI),2024.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

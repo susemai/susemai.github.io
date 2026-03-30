@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jonathan Nußbaum | Sustainable Embedded AI</title>
-    <link>https://example.com/author/jonathan-nu%C3%9Fbaum/</link>
-      <atom:link href="https://example.com/author/jonathan-nu%C3%9Fbaum/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jonathan Nußbaum</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <title>Jonathan Nussbaum | Sustainable Embedded AI</title>
+    <link>https://example.com/author/jonathan-nussbaum/</link>
+      <atom:link href="https://example.com/author/jonathan-nussbaum/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jonathan Nussbaum</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
-      <title>Jonathan Nußbaum</title>
-      <link>https://example.com/author/jonathan-nu%C3%9Fbaum/</link>
+      <url>https://example.com/media/logo_hu_2d02672550b6c111.png</url>
+      <title>Jonathan Nussbaum</title>
+      <link>https://example.com/author/jonathan-nussbaum/</link>
     </image>
     
     <item>
-      <title>The need for neuromorphic computing in industrial robotics</title>
-      <link>https://example.com/publication/the-need-for-neuromorphic-computing/</link>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/the-need-for-neuromorphic-computing/</guid>
-      <description></description>
+      <title>CPPM Copilot: Proposing an AI-Based Assistant for Manual Assembly Tasks in a Flexible Production</title>
+      <link>https://example.com/publication/cppm-copilot-proposing-an-ai-based-assistant-for-m/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/cppm-copilot-proposing-an-ai-based-assistant-for-m/</guid>
+      <description>&lt;p&gt;Citation:
+J. Nussbaum, T. Legler, M. Ruskowski,. &amp;ldquo;CPPM Copilot: Proposing an AI-Based Assistant for Manual Assembly Tasks in a Flexible Production&amp;rdquo;. In: Advances in Artificial Intelligence in Manufacturing II. Springer, Cham., 2025, pp. 80–88&lt;/p&gt;
+</description>
     </item>
     
   </channel>

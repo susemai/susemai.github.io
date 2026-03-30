@@ -7,7 +7,7 @@
     <description>René Schuster</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
+      <url>https://example.com/media/logo_hu_2d02672550b6c111.png</url>
       <title>René Schuster</title>
       <link>https://example.com/author/rene-schuster/</link>
     </image>
@@ -26,6 +26,15 @@
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/on-the-future-of-training-spiking-neural-networks/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>MSc. René Schuster</title>
+      <link>https://example.com/author/msc.-rene-schuster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/author/msc.-rene-schuster/</guid>
+      <description>&lt;p&gt;René Schuster received a master degree in Computational Engineering from the Technical University of Darmstadt, where he was student assistant at the Visual Inference Group under Prof. Stefan Roth. His master thesis about 3D vehicle detection based on motion and geometry was completed at the Robert Bosch GmbH.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

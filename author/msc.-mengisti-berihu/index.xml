@@ -7,10 +7,19 @@
     <description>MSc. Mengisti Berihu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/author/msc.-mengisti-berihu/avatar_hu9308b9dc67f55ebf55da33a9932bd806_171495_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://example.com/author/msc.-mengisti-berihu/avatar_hu_930612ae50a7861c.jpg</url>
       <title>MSc. Mengisti Berihu</title>
       <link>https://example.com/author/msc.-mengisti-berihu/</link>
     </image>
+    
+    <item>
+      <title>MSc. Mengisti Berihu</title>
+      <link>https://example.com/author/msc.-mengisti-berihu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/author/msc.-mengisti-berihu/</guid>
+      <description>&lt;p&gt;Mengisti Berihu is a research assistant at the Digital Farming chair.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

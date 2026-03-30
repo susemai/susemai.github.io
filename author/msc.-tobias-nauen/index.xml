@@ -7,10 +7,19 @@
     <description>MSc. Tobias Nauen</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/author/msc.-tobias-nauen/avatar_hua54fe32f32a80f896d16bd673c3a98a9_132238_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://example.com/author/msc.-tobias-nauen/avatar_hu_c75e7da55a0ab46a.jpg</url>
       <title>MSc. Tobias Nauen</title>
       <link>https://example.com/author/msc.-tobias-nauen/</link>
     </image>
+    
+    <item>
+      <title>MSc. Tobias Nauen</title>
+      <link>https://example.com/author/msc.-tobias-nauen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/author/msc.-tobias-nauen/</guid>
+      <description>&lt;p&gt;Tobias Nauen is a research assistant at the Artificial Intelligence chair.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

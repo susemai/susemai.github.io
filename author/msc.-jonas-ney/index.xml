@@ -5,12 +5,31 @@
     <link>https://example.com/author/msc.-jonas-ney/</link>
       <atom:link href="https://example.com/author/msc.-jonas-ney/index.xml" rel="self" type="application/rss+xml" />
     <description>MSc. Jonas Ney</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/author/msc.-jonas-ney/avatar_hue4414b068dd45bf3ad614611962f7f0c_188567_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://example.com/author/msc.-jonas-ney/avatar_hu_4624e799e48bbb44.jpg</url>
       <title>MSc. Jonas Ney</title>
       <link>https://example.com/author/msc.-jonas-ney/</link>
     </image>
+    
+    <item>
+      <title>eFAirWrite: Bringing energy efficient text entry to next generation smart devices</title>
+      <link>https://example.com/publication/efairwrite-bringing-energy-efficient-text-entry-to/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/efairwrite-bringing-energy-efficient-text-entry-to/</guid>
+      <description>&lt;p&gt;Citation:
+eFAirWrite: Bringing Energy Efficient Text Entry to Next Generation Smart Devices. M. M. Ghaffar, A. Abdullah, J. Younas, V. Rybalkin, J. Ney, P. Lukowiczc, N. Wehn. Expert Systems With Applications, Elsevier, 2025. &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0957417425019256?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.sciencedirect.com/science/article/pii/S0957417425019256?via%3Dihub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc. Jonas Ney</title>
+      <link>https://example.com/author/msc.-jonas-ney/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/author/msc.-jonas-ney/</guid>
+      <description>&lt;p&gt;Jonas Ney is a researcher at Division of Microelectronic Systems Design (EMS), Technische Universität Kaiserslautern.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

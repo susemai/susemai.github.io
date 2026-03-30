@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan M. Durán | Sustainable Embedded AI</title>
+    <link>http://localhost:1313/author/juan-m.-duran/</link>
+      <atom:link href="http://localhost:1313/author/juan-m.-duran/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan M. Durán</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_2d02672550b6c111.png</url>
+      <title>Juan M. Durán</title>
+      <link>http://localhost:1313/author/juan-m.-duran/</link>
+    </image>
+    
+    <item>
+      <title>Ethical Considerations in the Context of AI-Driven Misinformation Detection</title>
+      <link>http://localhost:1313/publication/ethical-considerations-in-the-context-of-ai-driven/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ethical-considerations-in-the-context-of-ai-driven/</guid>
+      <description>&lt;p&gt;Citation:
+Barbagallo, E., Nußbaum, J., &amp;amp; Joisten, K. (as first contribution in a Collective Volume that will be published in 2027). Human-AI Cooperation and Creativity in a Sustainable Smart Factory.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

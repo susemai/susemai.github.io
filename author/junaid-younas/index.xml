@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junaid Younas | Sustainable Embedded AI</title>
+    <link>https://example.com/author/junaid-younas/</link>
+      <atom:link href="https://example.com/author/junaid-younas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junaid Younas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo_hu_2d02672550b6c111.png</url>
+      <title>Junaid Younas</title>
+      <link>https://example.com/author/junaid-younas/</link>
+    </image>
+    
+    <item>
+      <title>eFAirWrite: Bringing energy efficient text entry to next generation smart devices</title>
+      <link>https://example.com/publication/efairwrite-bringing-energy-efficient-text-entry-to/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/efairwrite-bringing-energy-efficient-text-entry-to/</guid>
+      <description>&lt;p&gt;Citation:
+eFAirWrite: Bringing Energy Efficient Text Entry to Next Generation Smart Devices. M. M. Ghaffar, A. Abdullah, J. Younas, V. Rybalkin, J. Ney, P. Lukowiczc, N. Wehn. Expert Systems With Applications, Elsevier, 2025. &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0957417425019256?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.sciencedirect.com/science/article/pii/S0957417425019256?via%3Dihub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
