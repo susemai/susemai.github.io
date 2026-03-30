@@ -5,55 +5,12 @@
     <link>https://example.com/author/prof.-dr.-prof.-h.c.-andreas-dengel/</link>
       <atom:link href="https://example.com/author/prof.-dr.-prof.-h.c.-andreas-dengel/index.xml" rel="self" type="application/rss+xml" />
     <description>Prof. Dr. Prof. h.c. Andreas Dengel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/author/prof.-dr.-prof.-h.c.-andreas-dengel/avatar_hu_83b1a6d45107694a.jpg</url>
+      <url>https://example.com/author/prof.-dr.-prof.-h.c.-andreas-dengel/avatar_huf73d08f2f602e3845fc97f0b82ff134d_69712_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Prof. Dr. Prof. h.c. Andreas Dengel</title>
       <link>https://example.com/author/prof.-dr.-prof.-h.c.-andreas-dengel/</link>
     </image>
-    
-    <item>
-      <title>Prof. Dr. Prof. h.c. Andreas Dengel</title>
-      <link>https://example.com/author/prof.-dr.-prof.-h.c.-andreas-dengel/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/author/prof.-dr.-prof.-h.c.-andreas-dengel/</guid>
-      <description>&lt;p&gt;Andreas Dengel is Executive Director of the German Research Center for Artificial Intelligence (DFKI) in Kaiserslautern, head of the research area Smart Data &amp;amp; Knowledge Services at DFKI and the DFKI Deep Learning Competence Center.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers</title>
-      <link>https://example.com/publication/which-transformer-to-favor-a-comparative-analysis-/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/which-transformer-to-favor-a-comparative-analysis-/</guid>
-      <description>&lt;p&gt;Citation:
-T. C. Nauen, S. Palacio, F. Raue, A. Dengel, „Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers“, IEEE/CVF Winter Conference on Applications of Computer Vision, WACV, 2025&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Waving Goodbye to Low-Res: A Diffusion-Wavelet Approach for Image Super-Resolution</title>
-      <link>https://example.com/publication/waving-goodbye-to-lowres/</link>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/waving-goodbye-to-lowres/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TaylorShift: Shifting the Complexity of Self-Attention from Squared to Linear (and Back) using Taylor-Softmax</title>
-      <link>https://example.com/publication/taylorshift/</link>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/taylorshift/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DWA: Differential Wavelet Amplifier for Image Super-Resolution</title>
-      <link>https://example.com/publication/dwa/</link>
-      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/dwa/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

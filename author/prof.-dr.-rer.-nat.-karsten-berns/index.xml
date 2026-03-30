@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prof. Dr. Rer. Nat. Karsten Berns | Sustainable Embedded AI</title>
+    <title>Prof. Dr. rer. nat. Karsten Berns | Sustainable Embedded AI</title>
     <link>https://example.com/author/prof.-dr.-rer.-nat.-karsten-berns/</link>
       <atom:link href="https://example.com/author/prof.-dr.-rer.-nat.-karsten-berns/index.xml" rel="self" type="application/rss+xml" />
-    <description>Prof. Dr. Rer. Nat. Karsten Berns</description>
+    <description>Prof. Dr. rer. nat. Karsten Berns</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/media/logo_hu_2d02672550b6c111.png</url>
-      <title>Prof. Dr. Rer. Nat. Karsten Berns</title>
-      <link>https://example.com/author/prof.-dr.-rer.-nat.-karsten-berns/</link>
-    </image>
-    
-    <item>
+      <url>https://example.com/author/prof.-dr.-rer.-nat.-karsten-berns/avatar_hu3abc68befd22e11c4d4b2586f239d1ac_62223_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Prof. Dr. rer. nat. Karsten Berns</title>
       <link>https://example.com/author/prof.-dr.-rer.-nat.-karsten-berns/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/author/prof.-dr.-rer.-nat.-karsten-berns/</guid>
-      <description>&lt;p&gt;Karsten Berns is a professor in TU Kaiserslautern.&lt;/p&gt;
-</description>
-    </item>
+    </image>
     
   </channel>
 </rss>

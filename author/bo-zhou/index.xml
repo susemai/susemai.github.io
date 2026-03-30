@@ -5,22 +5,12 @@
     <link>https://example.com/author/bo-zhou/</link>
       <atom:link href="https://example.com/author/bo-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>Bo Zhou</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo_hu_2d02672550b6c111.png</url>
+      <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
       <title>Bo Zhou</title>
       <link>https://example.com/author/bo-zhou/</link>
     </image>
-    
-    <item>
-      <title>PIM: Physics-Informed Multi-task Pre-training for Improving Inertial Sensor-Based Human Activity Recognition</title>
-      <link>https://example.com/publication/pim-physics-informed-multi-task-pre-training-for-i/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pim-physics-informed-multi-task-pre-training-for-i/</guid>
-      <description>&lt;p&gt;Citation:
-D. Nshimyimana, V. F. Rey, S. Suh, B. Zhou and P. Lukowicz, &amp;ldquo;PIM: Physics-Informed Multi-task Pre-training for Improving Inertial Sensor-Based Human Activity Recognition,&amp;rdquo; 2025 International Conference on Activity and Behavior Computing (ABC), Al Ain, United Arab Emirates, 2025, pp. 1-11, doi: 10.1109/ABC64332.2025.11118365. keywords: {Accuracy;Training data;Self-supervised learning;Benchmark testing;Multitasking;Data augmentation;Mathematical models;Data models;Human activity recognition;Wearable sensors;Human activity recognition;Self-supervised learning;Physics-inspired neural networks;Wearable sensors;Pretext tasks},&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Remaining useful life prediction of Lithium-ion batteries using spatio-temporal multimodal attention networks</title>

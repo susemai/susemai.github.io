@@ -5,222 +5,19 @@
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Sustainable Embedded AI</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo_hu_2d02672550b6c111.png</url>
+      <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
       <title>Sustainable Embedded AI</title>
       <link>https://example.com/</link>
     </image>
     
     <item>
-      <title>Embedded World 2026: Joint Embedded AI Demonstrator</title>
-      <link>https://example.com/event/embedded-world-2026/</link>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.com/event/embedded-world-2026/</guid>
-      <description>&lt;p&gt;At the Embedded World Exhibition 2026, the Rhineland-Palatinate Technical University Kaiserslautern-Landau (RPTU) and the Fraunhofer Institute for Industrial Mathematics (ITWM) jointly presented a demonstrator showcasing the next generation of embedded artificial intelligence development. The exhibit highlighted the strong cooperation between both partners and demonstrated how tightly integrated software and hardware innovation can significantly accelerate AI deployment on edge devices.&lt;/p&gt;
-&lt;p&gt;Vlad presented the demonstrator and framework for the automatic design and optimization of AI. A key highlight of the demonstrator was its ability to achieve up to ten times faster face detection compared to state-of-the-art baseline implementations. This performance gain illustrates the effectiveness of the jointly developed solution, which combines advanced neural architecture optimization with real hardware-based evaluation.&lt;/p&gt;
-&lt;h3 id=&#34;combining-expertise-nase-and-hardware-in-the-loop&#34;&gt;Combining Expertise: NASE and Hardware-in-the-Loop&lt;/h3&gt;
-&lt;p&gt;The collaboration builds on complementary expertise from both institutions:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Fraunhofer ITWM&lt;/strong&gt; is responsible for the development of the Neural Architecture Search Engine (NASE), an intelligent system that automatically designs and optimizes neural networks for embedded and edge environments.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;RPTU Kaiserslautern-Landau&lt;/strong&gt; contributes its expertise in Hardware-in-the-Loop (HiL), enabling the execution and evaluation of AI models directly on real hardware platforms.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;By combining automated architecture search with real-time hardware evaluation, developers benefit from faster development cycles, improved runtime efficiency, reduced energy consumption, and higher reliability in deployment scenarios.&lt;/p&gt;
-&lt;h3 id=&#34;acknowledgment&#34;&gt;Acknowledgment&lt;/h3&gt;
-&lt;p&gt;The presented research and demonstrator were supported by the Carl Zeiss Stiftung, Germany, under the Sustainable Embedded AI project (P2021-02-009). The demonstrator was exhibited at the booth of the Fraunhofer-Gesellschaft at the Embedded World Exhibition 2026.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;featured.png&#34; alt=&#34;Event Pictures&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Read the full article here:&lt;/strong&gt; &lt;a href=&#34;https://eit.rptu.de/fgs/ems/neuigkeiten-1?tx_news_pi1%5Baction%5D=detail&amp;amp;tx_news_pi1%5Bcontroller%5D=News&amp;amp;tx_news_pi1%5Bnews%5D=2417&amp;amp;cHash=de4d32d36d0fcfbbd3b370c24e5ebdee&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RPTU and Fraunhofer ITWM Present Joint Embedded AI Demonstrator&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Addressing Heterogeneity in Federated Learning: Challenges and Solutions for a Shared Production Environment</title>
-      <link>https://example.com/publication/addressing-heterogeneity-in-federated-learning-cha/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/addressing-heterogeneity-in-federated-learning-cha/</guid>
-      <description>&lt;p&gt;Citation:
-T. Legler, V. Hegiste, A. Anwar, M. Ruskowski. &amp;ldquo;Addressing Heterogeneity in Federated Learning: Challenges and Solutions for a Shared Production Environment.&amp;rdquo; In: Procedia Computer Science, Vol. 253, 6th International Conference on Industry 4.0 and Smart Manufacturing. Elsevier, 2025, pp. 2831–2840.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Benchmarking Federated Learning Under Realistic Non-IID Conditions: A Structured Partitioning Approach Using ImageNet</title>
-      <link>https://example.com/publication/benchmarking-federated-learning-under-realistic-no/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/benchmarking-federated-learning-under-realistic-no/</guid>
-      <description>&lt;p&gt;Citation:
-T. Legler, V. Hegiste, M. Ruskowski. &amp;ldquo;Benchmarking Federated Learning Under Realistic Non-IID Conditions: A Structured Partitioning Approach Using ImageNet.&amp;rdquo; In: Proceedings of the 2025 IEEE 45th International Conference on Distributed Computing Systems Workshops (ICDCSW). IEEE, 2025, pp. —. DOI: 10.1109/ICDCSW63273.2025.00137.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contrastive Left-Right Wearable Sensors (IMUs) Consistency Matching for HAR</title>
-      <link>https://example.com/publication/contrastive-left-right-wearable-sensors-imus-consi/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/contrastive-left-right-wearable-sensors-imus-consi/</guid>
-      <description>&lt;p&gt;Citation:
-Nshimyimana, Dominique, Vitor Fortes Rey, and Paul Lukowicz. &amp;ldquo;Contrastive left-right wearable sensors (imus) consistency matching for har.&amp;rdquo; Activity, Behavior, and Healthcare Computing. CRC Press, 2025. 88-104.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CPPM Copilot: Proposing an AI-Based Assistant for Manual Assembly Tasks in a Flexible Production</title>
-      <link>https://example.com/publication/cppm-copilot-proposing-an-ai-based-assistant-for-m/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/cppm-copilot-proposing-an-ai-based-assistant-for-m/</guid>
-      <description>&lt;p&gt;Citation:
-J. Nussbaum, T. Legler, M. Ruskowski,. &amp;ldquo;CPPM Copilot: Proposing an AI-Based Assistant for Manual Assembly Tasks in a Flexible Production&amp;rdquo;. In: Advances in Artificial Intelligence in Manufacturing II. Springer, Cham., 2025, pp. 80–88&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>eFAirWrite: Bringing energy efficient text entry to next generation smart devices</title>
-      <link>https://example.com/publication/efairwrite-bringing-energy-efficient-text-entry-to/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/efairwrite-bringing-energy-efficient-text-entry-to/</guid>
-      <description>&lt;p&gt;Citation:
-eFAirWrite: Bringing Energy Efficient Text Entry to Next Generation Smart Devices. M. M. Ghaffar, A. Abdullah, J. Younas, V. Rybalkin, J. Ney, P. Lukowiczc, N. Wehn. Expert Systems With Applications, Elsevier, 2025. &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0957417425019256?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.sciencedirect.com/science/article/pii/S0957417425019256?via%3Dihub&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Embedded Inter-Subject Variability in Adversarial Learning for Inertial Sensor-Based Human Activity Recognition</title>
-      <link>https://example.com/publication/embedded-inter-subject-variability-in-adversarial-/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/embedded-inter-subject-variability-in-adversarial-/</guid>
-      <description>&lt;p&gt;Citation:
-F. M. Calatrava-Nicolás, S. Miyauchi, V. F. Rey, P. Lukowicz, T. Stoyanov and O. M. Mozos, &amp;ldquo;Embedded Inter-Subject Variability in Adversarial Learning for Inertial Sensor-Based Human Activity Recognition,&amp;rdquo; 2025 IEEE 35th International Workshop on Machine Learning for Signal Processing (MLSP), Istanbul, Turkiye, 2025, pp. 1-6, doi: 10.1109/MLSP62443.2025.11204225.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ethische Implikationen von Embedded AI: zur Ambiguität von care and control</title>
-      <link>https://example.com/publication/ethische-implikationen-von-embedded-ai-zur-ambigui/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ethische-implikationen-von-embedded-ai-zur-ambigui/</guid>
-      <description>&lt;p&gt;Citation:
-Thiemer, N. (2025). Ethische Implikationen von Embedded AI: zur Ambiguität von care and control. In: Ansari-Bodewein, A., Dressler, T. (eds.) KI zwischen Ost und West. Springer VS, Wiesbaden. &lt;a href=&#34;https://doi.org/10.1007/978-3-658-48455-2_3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/978-3-658-48455-2_3&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>FAME: Feature-Augmented Multi-View Ensemble Framework for Human Activity Recognition using Inertial Sensors</title>
-      <link>https://example.com/publication/fame-feature-augmented-multi-view-ensemble-framewo/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/fame-feature-augmented-multi-view-ensemble-framewo/</guid>
-      <description>&lt;p&gt;Citation:
-Calatrava-Nicolas, Francisco M., et al. &amp;ldquo;FAME: Feature-Augmented Multi-View Ensemble Framework for Human Activity Recognition using Inertial Sensors.&amp;rdquo; Companion of the 2025 ACM International Joint Conference on Pervasive and Ubiquitous Computing. 2025.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Federated Action Recognition for Smart Worker Assistance Using FastPose</title>
-      <link>https://example.com/publication/federated-action-recognition-for-smart-worker-assi/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/federated-action-recognition-for-smart-worker-assi/</guid>
-      <description>&lt;p&gt;Citation:
-V. Hegiste, V. Goyal, T. Legler, M. Ruskowski. &amp;ldquo;Federated Action Recognition for Smart Worker Assistance Using FastPose.&amp;rdquo; In: Proceedings of the 2025 3rd International Conference on Federated Learning Technologies and Applications (FLTA). IEEE, 2025. DOI: 10.1109/FLTA67013.2025.11336524.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Federated Residual Reinforcement Learning for Collaborative Robot Skill Learning in Industry</title>
-      <link>https://example.com/publication/federated-residual-reinforcement-learning-for-coll/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/federated-residual-reinforcement-learning-for-coll/</guid>
-      <description>&lt;p&gt;Citation:
-K. Abuibaid, V. Hegiste, T. Legler, A. Wagner and M. Ruskowski, &amp;ldquo;Federated Residual Reinforcement Learning for Collaborative Robot Skill Learning in Industry,&amp;rdquo; 2025 3rd International Conference on Federated Learning Technologies and Applications (FLTA), Dubrovnik, Croatia, 2025, pp. 530-536, doi: 10.1109/FLTA67013.2025.11336679.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Inertial Sensor-Based Hierarchical Contrastive Multi-View Learning for Human Activity Recognition</title>
-      <link>https://example.com/publication/inertial-sensor-based-hierarchical-contrastive-mul/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/inertial-sensor-based-hierarchical-contrastive-mul/</guid>
-      <description>&lt;p&gt;Citation:
-Calatrava-Nicolas, F. M., Rey, V. F., Lukowicz, P., &amp;amp; Mozos, O. M. (2025, October). Inertial Sensor-Based Hierarchical Contrastive Multi-View Learning for Human Activity Recognition. In Proceedings of the 2025 ACM International Symposium on Wearable Computers (pp. 106-112).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PACL&#43;: Online continual learning using proxy-anchor and contrastive loss with Gaussian replay for sensor-based human activity recognition</title>
-      <link>https://example.com/publication/pacl-online-continual-learning-using-proxy-anchor-/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pacl-online-continual-learning-using-proxy-anchor-/</guid>
-      <description>&lt;p&gt;Citation:
-Mittal, D. A., Rey, V. F., Bello, H., Lukowicz, P., &amp;amp; Suh, S. (2025). PACL+: Online continual learning using proxy-anchor and contrastive loss with Gaussian replay for sensor-based human activity recognition. Expert Systems with Applications, 292, 128603.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PIM: Physics-Informed Multi-task Pre-training for Improving Inertial Sensor-Based Human Activity Recognition</title>
-      <link>https://example.com/publication/pim-physics-informed-multi-task-pre-training-for-i/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pim-physics-informed-multi-task-pre-training-for-i/</guid>
-      <description>&lt;p&gt;Citation:
-D. Nshimyimana, V. F. Rey, S. Suh, B. Zhou and P. Lukowicz, &amp;ldquo;PIM: Physics-Informed Multi-task Pre-training for Improving Inertial Sensor-Based Human Activity Recognition,&amp;rdquo; 2025 International Conference on Activity and Behavior Computing (ABC), Al Ain, United Arab Emirates, 2025, pp. 1-11, doi: 10.1109/ABC64332.2025.11118365. keywords: {Accuracy;Training data;Self-supervised learning;Benchmark testing;Multitasking;Data augmentation;Mathematical models;Data models;Human activity recognition;Wearable sensors;Human activity recognition;Self-supervised learning;Physics-inspired neural networks;Wearable sensors;Pretext tasks},&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Segmentation of Wheat Rust Disease Using Co-Salient Feature Extraction</title>
-      <link>https://example.com/publication/segmentation-of-wheat-rust-disease-using-co-salien/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/segmentation-of-wheat-rust-disease-using-co-salien/</guid>
-      <description>&lt;p&gt;Citation:
-Segmentation of Wheat Rust Disease Using Co-Salient Feature Extraction. Hirra Anwar, Haseeb Muhammad, Muhammad Mohsin Ghaffar, Muhammad Ali Afridi, Muhammad Jawad Khan, Christian Weis, Norbert Wehn, Faisal Shafait (2025). AgriEngineering, 2025. &lt;a href=&#34;https://www.mdpi.com/2624-7402/7/2/23&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.mdpi.com/2624-7402/7/2/23&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sustainable Transfer Learning for Adaptive Robot Skills</title>
-      <link>https://example.com/publication/sustainable-transfer-learning-for-adaptive-robot-s/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/sustainable-transfer-learning-for-adaptive-robot-s/</guid>
-      <description>&lt;p&gt;Citation:
-K. Abuibaid, V. Hegiste, N. Gafur, A. Wagner and M. Ruskowski,. “Sustainable Transfer Learning for Adaptive Robot Skills”. In: Advances in Service and Industrial Robotics. Springer Nature Switzerland, 2025, pp. 389–397.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Trade-Off Between Communication Rounds and Local Rounds in Federated Learning</title>
-      <link>https://example.com/publication/trade-off-between-communication-rounds-and-local-r/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/trade-off-between-communication-rounds-and-local-r/</guid>
-      <description>&lt;p&gt;Citation:
-V. Hegiste, T. Legler, M. Ruskowski. &amp;ldquo;Trade-Off Between Communication Rounds and Local Rounds in Federated Learning.&amp;ldquo;In: Proceedings of the 2025 IEEE 45th International Conference on Distributed Computing Systems Workshops (ICDCSW). IEEE, 2025. DOI: 10.1109/ICDCSW63273.2025.0013&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers</title>
-      <link>https://example.com/publication/which-transformer-to-favor-a-comparative-analysis-/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/which-transformer-to-favor-a-comparative-analysis-/</guid>
-      <description>&lt;p&gt;Citation:
-T. C. Nauen, S. Palacio, F. Raue, A. Dengel, „Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers“, IEEE/CVF Winter Conference on Applications of Computer Vision, WACV, 2025&lt;/p&gt;
-</description>
+      <link>https://example.com/publication/wheat-rust-disease/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wheat-rust-disease/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -457,9 +254,9 @@ T. C. Nauen, S. Palacio, F. Raue, A. Dengel, „Which Transformer to Favor: A Co
     
     <item>
       <title>A Critical Assessment of DRAM-PIM Architectures - Trends, Challenges and Solutions</title>
-      <link>https://example.com/publication/a-critical-assessment-of-dram-pim-architectures---trends-challenges-and-solutions/</link>
+      <link>https://example.com/publication/a-critical-assessment-of-dram-pim-architectures-trends-challenges-and-solutions/</link>
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/a-critical-assessment-of-dram-pim-architectures---trends-challenges-and-solutions/</guid>
+      <guid>https://example.com/publication/a-critical-assessment-of-dram-pim-architectures-trends-challenges-and-solutions/</guid>
       <description></description>
     </item>
     
@@ -492,86 +289,6 @@ T. C. Nauen, S. Palacio, F. Raue, A. Dengel, „Which Transformer to Favor: A Co
       <link>https://example.com/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/publication/comparative-analysis-of-the-detection-of-dairy-cow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/comparative-analysis-of-the-detection-of-dairy-cow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/publication/efficient-deep-neural-network-training-with-a-nove/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/efficient-deep-neural-network-training-with-a-nove/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/publication/explainable-ai-leaf-based-medicinal-plant-classifi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/explainable-ai-leaf-based-medicinal-plant-classifi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/publication/hls4pc-a-parametrizable-framework/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hls4pc-a-parametrizable-framework/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/publication/human-ai-cooperation-and-creativity-in-a-sustainab/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/human-ai-cooperation-and-creativity-in-a-sustainab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/publication/introducing-explainability-to-dairy-farming-a-smal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/introducing-explainability-to-dairy-farming-a-smal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/publication/new-imperatives-of-care-for-a-sustainable-life-equ/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/new-imperatives-of-care-for-a-sustainable-life-equ/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/publication/perspectives-on-explanation-formats-from-two-stake/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/perspectives-on-explanation-formats-from-two-stake/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/publication/sequence-aware-spiking-object-detection/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/sequence-aware-spiking-object-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/publication/technological-embeddedness-without-ethical-embedde/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/technological-embeddedness-without-ethical-embedde/</guid>
       <description></description>
     </item>
     

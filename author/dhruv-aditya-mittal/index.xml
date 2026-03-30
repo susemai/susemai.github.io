@@ -5,22 +5,12 @@
     <link>https://example.com/author/dhruv-aditya-mittal/</link>
       <atom:link href="https://example.com/author/dhruv-aditya-mittal/index.xml" rel="self" type="application/rss+xml" />
     <description>Dhruv Aditya Mittal</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo_hu_2d02672550b6c111.png</url>
+      <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
       <title>Dhruv Aditya Mittal</title>
       <link>https://example.com/author/dhruv-aditya-mittal/</link>
     </image>
-    
-    <item>
-      <title>PACL&#43;: Online continual learning using proxy-anchor and contrastive loss with Gaussian replay for sensor-based human activity recognition</title>
-      <link>https://example.com/publication/pacl-online-continual-learning-using-proxy-anchor-/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pacl-online-continual-learning-using-proxy-anchor-/</guid>
-      <description>&lt;p&gt;Citation:
-Mittal, D. A., Rey, V. F., Bello, H., Lukowicz, P., &amp;amp; Suh, S. (2025). PACL+: Online continual learning using proxy-anchor and contrastive loss with Gaussian replay for sensor-based human activity recognition. Expert Systems with Applications, 292, 128603.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Remaining useful life prediction of Lithium-ion batteries using spatio-temporal multimodal attention networks</title>

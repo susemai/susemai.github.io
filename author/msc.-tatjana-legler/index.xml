@@ -5,97 +5,12 @@
     <link>https://example.com/author/msc.-tatjana-legler/</link>
       <atom:link href="https://example.com/author/msc.-tatjana-legler/index.xml" rel="self" type="application/rss+xml" />
     <description>MSc. Tatjana Legler</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/author/msc.-tatjana-legler/avatar_hu_afd7b003ed137839.jpg</url>
+      <url>https://example.com/author/msc.-tatjana-legler/avatar_hu2220fb9253b8dc5730a5d0f5e76844ca_110308_270x270_fill_q75_lanczos_center.jpg</url>
       <title>MSc. Tatjana Legler</title>
       <link>https://example.com/author/msc.-tatjana-legler/</link>
     </image>
-    
-    <item>
-      <title>Addressing Heterogeneity in Federated Learning: Challenges and Solutions for a Shared Production Environment</title>
-      <link>https://example.com/publication/addressing-heterogeneity-in-federated-learning-cha/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/addressing-heterogeneity-in-federated-learning-cha/</guid>
-      <description>&lt;p&gt;Citation:
-T. Legler, V. Hegiste, A. Anwar, M. Ruskowski. &amp;ldquo;Addressing Heterogeneity in Federated Learning: Challenges and Solutions for a Shared Production Environment.&amp;rdquo; In: Procedia Computer Science, Vol. 253, 6th International Conference on Industry 4.0 and Smart Manufacturing. Elsevier, 2025, pp. 2831–2840.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Benchmarking Federated Learning Under Realistic Non-IID Conditions: A Structured Partitioning Approach Using ImageNet</title>
-      <link>https://example.com/publication/benchmarking-federated-learning-under-realistic-no/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/benchmarking-federated-learning-under-realistic-no/</guid>
-      <description>&lt;p&gt;Citation:
-T. Legler, V. Hegiste, M. Ruskowski. &amp;ldquo;Benchmarking Federated Learning Under Realistic Non-IID Conditions: A Structured Partitioning Approach Using ImageNet.&amp;rdquo; In: Proceedings of the 2025 IEEE 45th International Conference on Distributed Computing Systems Workshops (ICDCSW). IEEE, 2025, pp. —. DOI: 10.1109/ICDCSW63273.2025.00137.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CPPM Copilot: Proposing an AI-Based Assistant for Manual Assembly Tasks in a Flexible Production</title>
-      <link>https://example.com/publication/cppm-copilot-proposing-an-ai-based-assistant-for-m/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/cppm-copilot-proposing-an-ai-based-assistant-for-m/</guid>
-      <description>&lt;p&gt;Citation:
-J. Nussbaum, T. Legler, M. Ruskowski,. &amp;ldquo;CPPM Copilot: Proposing an AI-Based Assistant for Manual Assembly Tasks in a Flexible Production&amp;rdquo;. In: Advances in Artificial Intelligence in Manufacturing II. Springer, Cham., 2025, pp. 80–88&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Federated Action Recognition for Smart Worker Assistance Using FastPose</title>
-      <link>https://example.com/publication/federated-action-recognition-for-smart-worker-assi/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/federated-action-recognition-for-smart-worker-assi/</guid>
-      <description>&lt;p&gt;Citation:
-V. Hegiste, V. Goyal, T. Legler, M. Ruskowski. &amp;ldquo;Federated Action Recognition for Smart Worker Assistance Using FastPose.&amp;rdquo; In: Proceedings of the 2025 3rd International Conference on Federated Learning Technologies and Applications (FLTA). IEEE, 2025. DOI: 10.1109/FLTA67013.2025.11336524.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Federated Residual Reinforcement Learning for Collaborative Robot Skill Learning in Industry</title>
-      <link>https://example.com/publication/federated-residual-reinforcement-learning-for-coll/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/federated-residual-reinforcement-learning-for-coll/</guid>
-      <description>&lt;p&gt;Citation:
-K. Abuibaid, V. Hegiste, T. Legler, A. Wagner and M. Ruskowski, &amp;ldquo;Federated Residual Reinforcement Learning for Collaborative Robot Skill Learning in Industry,&amp;rdquo; 2025 3rd International Conference on Federated Learning Technologies and Applications (FLTA), Dubrovnik, Croatia, 2025, pp. 530-536, doi: 10.1109/FLTA67013.2025.11336679.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc. Tatjana Legler</title>
-      <link>https://example.com/author/msc.-tatjana-legler/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/author/msc.-tatjana-legler/</guid>
-      <description>&lt;p&gt;Tatjana Legler studied mechanical engineering at the Technical University of Kaiserslautern. She wrote her master thesis on &amp;ldquo;Optimization of automated visual inspection of common rails using neural networks&amp;rdquo;. She has been working as a research assistent at the Chair of Machine Tools and Control Systems since November 2017.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Trade-Off Between Communication Rounds and Local Rounds in Federated Learning</title>
-      <link>https://example.com/publication/trade-off-between-communication-rounds-and-local-r/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/trade-off-between-communication-rounds-and-local-r/</guid>
-      <description>&lt;p&gt;Citation:
-V. Hegiste, T. Legler, M. Ruskowski. &amp;ldquo;Trade-Off Between Communication Rounds and Local Rounds in Federated Learning.&amp;ldquo;In: Proceedings of the 2025 IEEE 45th International Conference on Distributed Computing Systems Workshops (ICDCSW). IEEE, 2025. DOI: 10.1109/ICDCSW63273.2025.0013&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The need for neuromorphic computing in industrial robotics</title>
-      <link>https://example.com/publication/the-need-for-neuromorphic-computing/</link>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/the-need-for-neuromorphic-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Federated Ensemble YOLOv5 – A Better Generalized Object Detection Algorithm</title>
-      <link>https://example.com/publication/federated-ensemble-yolov5/</link>
-      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/federated-ensemble-yolov5/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

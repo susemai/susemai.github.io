@@ -7,19 +7,10 @@
     <description>MSc. Jakub Pawlak</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/author/msc.-jakub-pawlak/avatar_hu_dbe756b6cd7c6ccf.jpg</url>
+      <url>https://example.com/author/msc.-jakub-pawlak/avatar_huf66f32311bde30f3ea92525cb9654317_7433_270x270_fill_q75_lanczos_center.jpg</url>
       <title>MSc. Jakub Pawlak</title>
       <link>https://example.com/author/msc.-jakub-pawlak/</link>
     </image>
-    
-    <item>
-      <title>MSc. Jakub Pawlak</title>
-      <link>https://example.com/author/msc.-jakub-pawlak/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/author/msc.-jakub-pawlak/</guid>
-      <description>&lt;p&gt;Jakub Pawlak studied computer science at the TU Kaiserslautern from 2014 to 2022 with a focus on robotics and artificial intelligence. His master&amp;rsquo;s thesis entitled &amp;ldquo;Domain Adaptation from Synthetic Images to Real-World Scenario Using Generative Methods&amp;rdquo; dealt with the effective use of synthetic data in the context of machine learning.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
