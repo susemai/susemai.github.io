@@ -1,0 +1,20 @@
+// Make page header alignment consistent with widget page header alignment
+.universal-wrapper h1 {
+  text-align: center;
+}
+
+// Center the CTA shortcode button
+.cta-group {
+  justify-content: center;
+}
+
+// Prevent hero images from cropping
+.hero-media img {
+  object-fit: contain !important;
+}
+
+// Prevent slider background images from cropping
+.wg-slider .carousel-item {
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
