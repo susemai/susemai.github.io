@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Prof. Dr. Karen Joisten | Sustainable Embedded AI</title>
-    <link>https://example.com/author/prof.-dr.-karen-joisten/</link>
-      <atom:link href="https://example.com/author/prof.-dr.-karen-joisten/index.xml" rel="self" type="application/rss+xml" />
-    <description>Prof. Dr. Karen Joisten</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
-    <image>
-      <url>https://example.com/author/prof.-dr.-karen-joisten/avatar_hu7f1a711db52e0929066dab306f5c2248_134379_270x270_fill_q75_lanczos_center.jpg</url>
-      <title>Prof. Dr. Karen Joisten</title>
-      <link>https://example.com/author/prof.-dr.-karen-joisten/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Prof. Dr. Karen Joisten | Sustainable Embedded AI</title><link>https://sembai.cs.uni-kl.de/author/prof.-dr.-karen-joisten/</link><atom:link href="https://sembai.cs.uni-kl.de/author/prof.-dr.-karen-joisten/index.xml" rel="self" type="application/rss+xml"/><description>Prof. Dr. Karen Joisten</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate><image><url>https://sembai.cs.uni-kl.de/author/prof.-dr.-karen-joisten/avatar_hu_80078d7145c44f82.jpg</url><title>Prof. Dr. Karen Joisten</title><link>https://sembai.cs.uni-kl.de/author/prof.-dr.-karen-joisten/</link></image><item><title>Prof. Dr. Karen Joisten</title><link>https://sembai.cs.uni-kl.de/author/prof.-dr.-karen-joisten/</link><pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate><guid>https://sembai.cs.uni-kl.de/author/prof.-dr.-karen-joisten/</guid><description>&lt;p>Karen Joisten is a professor of Philosophy at the Center for Ethics and the Digital Society.&lt;/p></description></item><item><title>Selbstverständlich digital</title><link>https://sembai.cs.uni-kl.de/publication/selbstverstandlich-digital/</link><pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate><guid>https://sembai.cs.uni-kl.de/publication/selbstverstandlich-digital/</guid><description/></item></channel></rss>

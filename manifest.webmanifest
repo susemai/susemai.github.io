@@ -1,18 +1,1 @@
-{
-  "name": "Sustainable Embedded AI",
-  "short_name": "Sustainable Embedded AI",
-  "lang": "en-us",
-  "theme_color": "#1AA37A",
-  "background_color": "#1AA37A",
-  "icons": [{
-    "src": "/media/icon_hua67e908a636ffa0babddfa7174cc5559_20561_192x192_fill_lanczos_center_3.png",
-    "sizes": "192x192",
-    "type": "image/png"
-    }, {
-    "src": "/media/icon_hua67e908a636ffa0babddfa7174cc5559_20561_512x512_fill_lanczos_center_3.png",
-    "sizes": "512x512",
-    "type": "image/png"
-     }],
-  "display": "standalone",
-  "start_url": "/?utm_source=web_app_manifest"
-}
+{"name":"Sustainable Embedded AI","short_name":"Sustainable Embedded AI","lang":"en-us","theme_color":"#1AA37A","background_color":"#1AA37A","icons":[{"src":"/media/icon_hu_a5842f6d5f46074d.png","sizes":"192x192","type":"image/png"},{"src":"/media/icon_hu_d7339145dd1f6597.png","sizes":"512x512","type":"image/png"}],"display":"standalone","start_url":"/?utm_source=web_app_manifest"}
