@@ -1,2 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dr.-Ing. Vladimir Rybalkin | Sustainable Embedded AI</title><link>https://sembai.cs.uni-kl.de/author/dr.-ing.-vladimir-rybalkin/</link><atom:link href="https://sembai.cs.uni-kl.de/author/dr.-ing.-vladimir-rybalkin/index.xml" rel="self" type="application/rss+xml"/><description>Dr.-Ing. Vladimir Rybalkin</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><image><url>https://sembai.cs.uni-kl.de/author/dr.-ing.-vladimir-rybalkin/avatar_hu_931bf08a4bfdafcd.jpg</url><title>Dr.-Ing. Vladimir Rybalkin</title><link>https://sembai.cs.uni-kl.de/author/dr.-ing.-vladimir-rybalkin/</link></image><item><title>Dr.-Ing. Vladimir Rybalkin</title><link>https://sembai.cs.uni-kl.de/author/dr.-ing.-vladimir-rybalkin/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://sembai.cs.uni-kl.de/author/dr.-ing.-vladimir-rybalkin/</guid><description>&lt;p>Vladimir Rybalkin is a researcher at Division of Microelectronic Systems Design (EMS), Technische Universität Kaiserslautern.&lt;/p></description></item><item><title>eFAirWrite: Bringing energy efficient text entry to next generation smart devices</title><link>https://sembai.cs.uni-kl.de/publication/efairwrite-bringing-energy-efficient-text-entry-to/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://sembai.cs.uni-kl.de/publication/efairwrite-bringing-energy-efficient-text-entry-to/</guid><description>&lt;p>Citation:
-eFAirWrite: Bringing Energy Efficient Text Entry to Next Generation Smart Devices. M. M. Ghaffar, A. Abdullah, J. Younas, V. Rybalkin, J. Ney, P. Lukowiczc, N. Wehn. Expert Systems With Applications, Elsevier, 2025. &lt;a href="https://www.sciencedirect.com/science/article/pii/S0957417425019256?via%3Dihub" target="_blank" rel="noopener">https://www.sciencedirect.com/science/article/pii/S0957417425019256?via%3Dihub&lt;/a>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr.-Ing. Vladimir Rybalkin | Sustainable Embedded AI</title>
+    <link>https://example.com/author/dr.-ing.-vladimir-rybalkin/</link>
+      <atom:link href="https://example.com/author/dr.-ing.-vladimir-rybalkin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dr.-Ing. Vladimir Rybalkin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/dr.-ing.-vladimir-rybalkin/avatar_huc9c4c0ee2f925bdefb5ae9d7f6b8edbf_377885_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Dr.-Ing. Vladimir Rybalkin</title>
+      <link>https://example.com/author/dr.-ing.-vladimir-rybalkin/</link>
+    </image>
+    
+  </channel>
+</rss>

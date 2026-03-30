@@ -1,1 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mohammad Hassani Sadi | Sustainable Embedded AI</title><link>https://sembai.cs.uni-kl.de/author/mohammad-hassani-sadi/</link><atom:link href="https://sembai.cs.uni-kl.de/author/mohammad-hassani-sadi/index.xml" rel="self" type="application/rss+xml"/><description>Mohammad Hassani Sadi</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Feb 2024 00:00:00 +0000</lastBuildDate><image><url>https://sembai.cs.uni-kl.de/media/logo_hu_2d02672550b6c111.png</url><title>Mohammad Hassani Sadi</title><link>https://sembai.cs.uni-kl.de/author/mohammad-hassani-sadi/</link></image><item><title>Novel adaptive quantization methodology for 8-bit floating-point DNN training</title><link>https://sembai.cs.uni-kl.de/publication/novel-adaptive-quantization-methodology/</link><pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate><guid>https://sembai.cs.uni-kl.de/publication/novel-adaptive-quantization-methodology/</guid><description/></item><item><title>Optimization of DRAM based PIM Architecture for Energy-Efficient Deep Neural Network Training</title><link>https://sembai.cs.uni-kl.de/publication/optimization-of-dram-based-pim-architecture-for-energy-efficient-deep-neural-network-training/</link><pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate><guid>https://sembai.cs.uni-kl.de/publication/optimization-of-dram-based-pim-architecture-for-energy-efficient-deep-neural-network-training/</guid><description/></item><item><title>A Critical Assessment of DRAM-PIM Architectures - Trends, Challenges and Solutions</title><link>https://sembai.cs.uni-kl.de/publication/a-critical-assessment-of-dram-pim-architectures---trends-challenges-and-solutions/</link><pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate><guid>https://sembai.cs.uni-kl.de/publication/a-critical-assessment-of-dram-pim-architectures---trends-challenges-and-solutions/</guid><description/></item><item><title>A Weighted Current Summation Based Mixed Signal DRAM-PIM Architecture for Deep Neural Network Inference</title><link>https://sembai.cs.uni-kl.de/publication/a-weighted-current-summation-based-mixed-signal-dram-pim-architecture-for-deep-neural-network-inference/</link><pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate><guid>https://sembai.cs.uni-kl.de/publication/a-weighted-current-summation-based-mixed-signal-dram-pim-architecture-for-deep-neural-network-inference/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohammad Hassani Sadi | Sustainable Embedded AI</title>
+    <link>https://example.com/author/mohammad-hassani-sadi/</link>
+      <atom:link href="https://example.com/author/mohammad-hassani-sadi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mohammad Hassani Sadi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
+      <title>Mohammad Hassani Sadi</title>
+      <link>https://example.com/author/mohammad-hassani-sadi/</link>
+    </image>
+    
+    <item>
+      <title>Novel adaptive quantization methodology for 8-bit floating-point DNN training</title>
+      <link>https://example.com/publication/novel-adaptive-quantization-methodology/</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/novel-adaptive-quantization-methodology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of DRAM based PIM Architecture for Energy-Efficient Deep Neural Network Training</title>
+      <link>https://example.com/publication/optimization-of-dram-based-pim-architecture-for-energy-efficient-deep-neural-network-training/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/optimization-of-dram-based-pim-architecture-for-energy-efficient-deep-neural-network-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Critical Assessment of DRAM-PIM Architectures - Trends, Challenges and Solutions</title>
+      <link>https://example.com/publication/a-critical-assessment-of-dram-pim-architectures-trends-challenges-and-solutions/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/a-critical-assessment-of-dram-pim-architectures-trends-challenges-and-solutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Weighted Current Summation Based Mixed Signal DRAM-PIM Architecture for Deep Neural Network Inference</title>
+      <link>https://example.com/publication/a-weighted-current-summation-based-mixed-signal-dram-pim-architecture-for-deep-neural-network-inference/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/a-weighted-current-summation-based-mixed-signal-dram-pim-architecture-for-deep-neural-network-inference/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

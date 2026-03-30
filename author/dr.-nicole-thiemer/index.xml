@@ -1,2 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dr. Nicole Thiemer | Sustainable Embedded AI</title><link>https://sembai.cs.uni-kl.de/author/dr.-nicole-thiemer/</link><atom:link href="https://sembai.cs.uni-kl.de/author/dr.-nicole-thiemer/index.xml" rel="self" type="application/rss+xml"/><description>Dr. Nicole Thiemer</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><image><url>https://sembai.cs.uni-kl.de/author/dr.-nicole-thiemer/avatar_hu_6d19bef7a3fb58ca.jpg</url><title>Dr. Nicole Thiemer</title><link>https://sembai.cs.uni-kl.de/author/dr.-nicole-thiemer/</link></image><item><title>Dr. Nicole Thiemer</title><link>https://sembai.cs.uni-kl.de/author/dr.-nicole-thiemer/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://sembai.cs.uni-kl.de/author/dr.-nicole-thiemer/</guid><description>&lt;p>Nicole Thiemer is a research assistant and managing director of the Wilhelm Schapp Research Center in the Department of Philosophy at the Technical University of Kaiserslautern&lt;/p></description></item><item><title>Ethische Implikationen von Embedded AI: zur Ambiguität von care and control</title><link>https://sembai.cs.uni-kl.de/publication/ethische-implikationen-von-embedded-ai-zur-ambigui/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://sembai.cs.uni-kl.de/publication/ethische-implikationen-von-embedded-ai-zur-ambigui/</guid><description>&lt;p>Citation:
-Thiemer, N. (2025). Ethische Implikationen von Embedded AI: zur Ambiguität von care and control. In: Ansari-Bodewein, A., Dressler, T. (eds.) KI zwischen Ost und West. Springer VS, Wiesbaden. &lt;a href="https://doi.org/10.1007/978-3-658-48455-2_3" target="_blank" rel="noopener">https://doi.org/10.1007/978-3-658-48455-2_3&lt;/a>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Nicole Thiemer | Sustainable Embedded AI</title>
+    <link>https://example.com/author/dr.-nicole-thiemer/</link>
+      <atom:link href="https://example.com/author/dr.-nicole-thiemer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dr. Nicole Thiemer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/dr.-nicole-thiemer/avatar_hua0813a56a31b0892d587125c3b56c364_784132_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Dr. Nicole Thiemer</title>
+      <link>https://example.com/author/dr.-nicole-thiemer/</link>
+    </image>
+    
+  </channel>
+</rss>
