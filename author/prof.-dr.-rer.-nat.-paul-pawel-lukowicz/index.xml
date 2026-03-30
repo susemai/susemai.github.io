@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prof. Dr. rer. nat. Paul (Pawel) Lukowicz | Sustainable Embedded AI</title>
+    <link>https://example.com/author/prof.-dr.-rer.-nat.-paul-pawel-lukowicz/</link>
+      <atom:link href="https://example.com/author/prof.-dr.-rer.-nat.-paul-pawel-lukowicz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prof. Dr. rer. nat. Paul (Pawel) Lukowicz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/prof.-dr.-rer.-nat.-paul-pawel-lukowicz/avatar_huaef9c0b066aaaa3c88b80ed3c5bca644_65403_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Prof. Dr. rer. nat. Paul (Pawel) Lukowicz</title>
+      <link>https://example.com/author/prof.-dr.-rer.-nat.-paul-pawel-lukowicz/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sustainable Embedded AI</title>
+    <link>https://example.com/</link>
+      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sustainable Embedded AI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
+      <title>Sustainable Embedded AI</title>
+      <link>https://example.com/</link>
+    </image>
+    
+    <item>
+      <title>Segmentation of Wheat Rust Disease Using Co-Salient Feature Extraction</title>
+      <link>https://example.com/publication/wheat-rust-disease/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wheat-rust-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waving Goodbye to Low-Res: A Diffusion-Wavelet Approach for Image Super-Resolution</title>
+      <link>https://example.com/publication/waving-goodbye-to-lowres/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/waving-goodbye-to-lowres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remaining useful life prediction of Lithium-ion batteries using spatio-temporal multimodal attention networks</title>
+      <link>https://example.com/publication/remaining-useful-life-prediction/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/remaining-useful-life-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selbstverständlich digital</title>
+      <link>https://example.com/publication/selbstverstandlich-digital/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/selbstverstandlich-digital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI-KD: Adversarial learning and Implicit regularization for self-Knowledge Distillation</title>
+      <link>https://example.com/publication/ai-kd/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ai-kd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ContextMix: A context-aware data augmentation method for industrial visual inspection systems</title>
+      <link>https://example.com/publication/contextmix/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/contextmix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explainable AI: Leaf-based medicinal plant classification using knowledge distillation</title>
+      <link>https://example.com/publication/leafbased-medicinal-plant-classification/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/leafbased-medicinal-plant-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring explainability formats to aid decision-making in dairy farming systems</title>
+      <link>https://example.com/publication/exploring-explainability-formats/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/exploring-explainability-formats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Worker Activity Recognition in Manufacturing Line Using Near-body Electric Field</title>
+      <link>https://example.com/publication/worker-activity-recognition-in-manufacturing-line/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/worker-activity-recognition-in-manufacturing-line/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The need for neuromorphic computing in industrial robotics</title>
+      <link>https://example.com/publication/the-need-for-neuromorphic-computing/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/the-need-for-neuromorphic-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Local-Global Feature Fusion Framework for Body-Weight Exercise Recognition with Pressure Mapping Sensors</title>
+      <link>https://example.com/publication/a-local-global-feature-fusion-framework/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/a-local-global-feature-fusion-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TaylorShift: Shifting the Complexity of Self-Attention from Squared to Linear (and Back) using Taylor-Softmax</title>
+      <link>https://example.com/publication/taylorshift/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/taylorshift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ShapeAug: Occlusion Augmentation for Event Camera Data</title>
+      <link>https://example.com/publication/shapeaug/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/shapeaug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel adaptive quantization methodology for 8-bit floating-point DNN training</title>
+      <link>https://example.com/publication/novel-adaptive-quantization-methodology/</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/novel-adaptive-quantization-methodology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Ensemble YOLOv5 – A Better Generalized Object Detection Algorithm</title>
+      <link>https://example.com/publication/federated-ensemble-yolov5/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/federated-ensemble-yolov5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-stage Early Prediction Framework of Remaining Useful Life for Lithium-ion Batteries</title>
+      <link>https://example.com/publication/two-stage-early-prediction-framework-of-remaining-useful-life/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/two-stage-early-prediction-framework-of-remaining-useful-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DWA: Differential Wavelet Amplifier for Image Super-Resolution</title>
+      <link>https://example.com/publication/dwa/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dwa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensor data augmentation from skeleton pose sequences for improving human activity recognition</title>
+      <link>https://example.com/publication/sensor-data-augmentation-from-skeleton-pose-sequences/</link>
+      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sensor-data-augmentation-from-skeleton-pose-sequences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The NWRD Dataset: An Open-Source Annotated Segmentation Dataset of Diseased Wheat Crop</title>
+      <link>https://example.com/publication/nwrd/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nwrd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery</title>
+      <link>https://example.com/publication/proxy-anchor-based-unsupervised-learning-for-continuous-generalized-category-discovery/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/proxy-anchor-based-unsupervised-learning-for-continuous-generalized-category-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ClothFit: Cloth-Human-Attribute Guided Virtual Try-On Network Using 3D Simulated Dataset</title>
+      <link>https://example.com/publication/clothfit/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/clothfit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Difficulty Estimation With Action Scores for Computer Vision Tasks</title>
+      <link>https://example.com/publication/difficulty-estimation-with-action-scores-for-computer-vision-tasks/</link>
+      <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/difficulty-estimation-with-action-scores-for-computer-vision-tasks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemical Property-Guided Neural Networks for Naphtha Composition Prediction</title>
+      <link>https://example.com/publication/chemical-property-guided-neural-networks/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/chemical-property-guided-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FieldHAR: A Fully Integrated End-to-end RTL Framework for Human Activity Recognition with Neural Networks from Heterogeneous Sensors</title>
+      <link>https://example.com/publication/fieldhar/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fieldhar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Knowledge Distillation framework for Multi-Organ Segmentation of Medaka Fish in Tomographic Image</title>
+      <link>https://example.com/publication/a-knowledge-distillation-framework-for-multi-organ-segmentation-of-medaka-fish-in-tomographic-image/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/a-knowledge-distillation-framework-for-multi-organ-segmentation-of-medaka-fish-in-tomographic-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Future of Training Spiking Neural Networks</title>
+      <link>https://example.com/publication/on-the-future-of-training-spiking-neural-networks/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/on-the-future-of-training-spiking-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TASKED: Transformer-based Adversarial learning for human activity recognition using wearable sensors via Self-KnowledgE Distillation</title>
+      <link>https://example.com/publication/tasked/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tasked/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of DRAM based PIM Architecture for Energy-Efficient Deep Neural Network Training</title>
+      <link>https://example.com/publication/optimization-of-dram-based-pim-architecture-for-energy-efficient-deep-neural-network-training/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/optimization-of-dram-based-pim-architecture-for-energy-efficient-deep-neural-network-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from the Best: Contrastive Representations Learning Across Sensor Locations for Wearable Activity Recognitiony</title>
+      <link>https://example.com/publication/learning-from-the-best/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/learning-from-the-best/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FeFET versus DRAM based PIM Architectures: A Comparative Study</title>
+      <link>https://example.com/publication/fefet-versus-dram-based-pim-architectures/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fefet-versus-dram-based-pim-architectures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Critical Assessment of DRAM-PIM Architectures - Trends, Challenges and Solutions</title>
+      <link>https://example.com/publication/a-critical-assessment-of-dram-pim-architectures-trends-challenges-and-solutions/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/a-critical-assessment-of-dram-pim-architectures-trends-challenges-and-solutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Retreat of the Sustainable Embedded AI Project at Villa Denis</title>
+      <link>https://example.com/event/first-retreat/</link>
+      <pubDate>Wed, 13 Jul 2022 09:00:00 +0000</pubDate>
+      <guid>https://example.com/event/first-retreat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Weighted Current Summation Based Mixed Signal DRAM-PIM Architecture for Deep Neural Network Inference</title>
+      <link>https://example.com/publication/a-weighted-current-summation-based-mixed-signal-dram-pim-architecture-for-deep-neural-network-inference/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/a-weighted-current-summation-based-mixed-signal-dram-pim-architecture-for-deep-neural-network-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partners</title>
+      <link>https://example.com/partners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/partners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tour</title>
+      <link>https://example.com/tour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workpackage</title>
+      <link>https://example.com/workpackage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/workpackage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

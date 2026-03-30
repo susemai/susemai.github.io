@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tobias Christian Nauen | Sustainable Embedded AI</title>
+    <link>https://example.com/author/tobias-christian-nauen/</link>
+      <atom:link href="https://example.com/author/tobias-christian-nauen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tobias Christian Nauen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
+      <title>Tobias Christian Nauen</title>
+      <link>https://example.com/author/tobias-christian-nauen/</link>
+    </image>
+    
+    <item>
+      <title>TaylorShift: Shifting the Complexity of Self-Attention from Squared to Linear (and Back) using Taylor-Softmax</title>
+      <link>https://example.com/publication/taylorshift/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/taylorshift/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MSc. Tapanta Bhanja | Sustainable Embedded AI</title>
+    <link>https://example.com/author/msc.-tapanta-bhanja/</link>
+      <atom:link href="https://example.com/author/msc.-tapanta-bhanja/index.xml" rel="self" type="application/rss+xml" />
+    <description>MSc. Tapanta Bhanja</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/msc.-tapanta-bhanja/avatar_huc00d666ad7342b94e9924a0652948f66_37503_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>MSc. Tapanta Bhanja</title>
+      <link>https://example.com/author/msc.-tapanta-bhanja/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MSc. Jakub Pawlak | Sustainable Embedded AI</title>
+    <link>https://example.com/author/msc.-jakub-pawlak/</link>
+      <atom:link href="https://example.com/author/msc.-jakub-pawlak/index.xml" rel="self" type="application/rss+xml" />
+    <description>MSc. Jakub Pawlak</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/msc.-jakub-pawlak/avatar_huf66f32311bde30f3ea92525cb9654317_7433_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>MSc. Jakub Pawlak</title>
+      <link>https://example.com/author/msc.-jakub-pawlak/</link>
+    </image>
+    
+  </channel>
+</rss>

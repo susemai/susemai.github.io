@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MSc. Tobias Nauen | Sustainable Embedded AI</title>
+    <link>https://example.com/author/msc.-tobias-nauen/</link>
+      <atom:link href="https://example.com/author/msc.-tobias-nauen/index.xml" rel="self" type="application/rss+xml" />
+    <description>MSc. Tobias Nauen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/msc.-tobias-nauen/avatar_hua54fe32f32a80f896d16bd673c3a98a9_132238_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>MSc. Tobias Nauen</title>
+      <link>https://example.com/author/msc.-tobias-nauen/</link>
+    </image>
+    
+  </channel>
+</rss>

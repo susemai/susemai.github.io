@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Sustainable Embedded AI</title>
+    <link>https://example.com/publication-type/2/</link>
+      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo_hu7732526f4849f6a68b6590dd0f15e74c_220718_300x300_fit_lanczos_3.png</url>
+      <title>2</title>
+      <link>https://example.com/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Segmentation of Wheat Rust Disease Using Co-Salient Feature Extraction</title>
+      <link>https://example.com/publication/wheat-rust-disease/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wheat-rust-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remaining useful life prediction of Lithium-ion batteries using spatio-temporal multimodal attention networks</title>
+      <link>https://example.com/publication/remaining-useful-life-prediction/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/remaining-useful-life-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI-KD: Adversarial learning and Implicit regularization for self-Knowledge Distillation</title>
+      <link>https://example.com/publication/ai-kd/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ai-kd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ContextMix: A context-aware data augmentation method for industrial visual inspection systems</title>
+      <link>https://example.com/publication/contextmix/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/contextmix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Worker Activity Recognition in Manufacturing Line Using Near-body Electric Field</title>
+      <link>https://example.com/publication/worker-activity-recognition-in-manufacturing-line/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/worker-activity-recognition-in-manufacturing-line/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel adaptive quantization methodology for 8-bit floating-point DNN training</title>
+      <link>https://example.com/publication/novel-adaptive-quantization-methodology/</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/novel-adaptive-quantization-methodology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The NWRD Dataset: An Open-Source Annotated Segmentation Dataset of Diseased Wheat Crop</title>
+      <link>https://example.com/publication/nwrd/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nwrd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TASKED: Transformer-based Adversarial learning for human activity recognition using wearable sensors via Self-KnowledgE Distillation</title>
+      <link>https://example.com/publication/tasked/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tasked/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from the Best: Contrastive Representations Learning Across Sensor Locations for Wearable Activity Recognitiony</title>
+      <link>https://example.com/publication/learning-from-the-best/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/learning-from-the-best/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FeFET versus DRAM based PIM Architectures: A Comparative Study</title>
+      <link>https://example.com/publication/fefet-versus-dram-based-pim-architectures/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fefet-versus-dram-based-pim-architectures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Critical Assessment of DRAM-PIM Architectures - Trends, Challenges and Solutions</title>
+      <link>https://example.com/publication/a-critical-assessment-of-dram-pim-architectures-trends-challenges-and-solutions/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/a-critical-assessment-of-dram-pim-architectures-trends-challenges-and-solutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Weighted Current Summation Based Mixed Signal DRAM-PIM Architecture for Deep Neural Network Inference</title>
+      <link>https://example.com/publication/a-weighted-current-summation-based-mixed-signal-dram-pim-architecture-for-deep-neural-network-inference/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/a-weighted-current-summation-based-mixed-signal-dram-pim-architecture-for-deep-neural-network-inference/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
