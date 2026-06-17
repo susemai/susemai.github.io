@@ -10,11 +10,13 @@ authors:
 superuser: false
 
 # Role/position
-role: Research assistant at the Artificial Intelligence chair
+role: Research assistant at the Artificial Intelligence Chair
 
 # Organizations/Affiliations
 organizations:
-  - name: TU Kaiserslautern
+  - name: RPTU Kaiserslautern-Landau
+    url: ""
+  - name: German Research Center for Artificial Intelligence (DFKI)
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,15 +29,15 @@ bio:
 
 education:
   courses:
-   - course: MSc in Mathematics
-     institution: Leibniz University Hannover
-     year: 2019-2022
-   - course: BSc in Computer Science
-     institution: Leibniz University Hannover
-     year: 2018-2022     
-   - course: BSc in Mathematics
-     institution: Leibniz University Hannover
-     year: 2016-2019
+    - course: MSc in Mathematics
+      institution: Leibniz University Hannover
+      year: 2019-2022
+    - course: BSc in Computer Science
+      institution: Leibniz University Hannover
+      year: 2018-2022
+    - course: BSc in Mathematics
+      institution: Leibniz University Hannover
+      year: 2016-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,15 +47,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:Tobias_Christian.Nauen@dfki.de"
-#  - icon: linkedin
-#    icon_pack: fab
-#    link: ""
-#  - icon: google-scholar
-#    icon_pack: ai
-#    link:
-#  - icon: globe
-#    icon_pack: fas
-#    link:
+  #  - icon: linkedin
+  #    icon_pack: fab
+  #    link: ""
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=NNVtvwYAAAAJ
+  - icon: globe
+    icon_pack: fas
+    link: https://nauen-it.de
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "Tobias_Christian.Nauen@dfki.de"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
