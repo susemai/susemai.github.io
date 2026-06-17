@@ -20,7 +20,7 @@ organizations:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: I’m a researcher of artificial intelligence at DFKI and RPTU Kaiserslautern-Landau.
 
 # interests:
 #   - 1
@@ -71,4 +71,4 @@ user_groups:
   - Researchers
 ---
 
-Tobias Nauen is a research assistant at the Artificial Intelligence chair.
+I’m a researcher of artificial intelligence at DFKI and RPTU Kaiserslautern-Landau. My research interests include efficient deep learning, transformer models, multimodal learning, and computer vision. In my PhD project, my focus lies on the development of efficient transformer models for vision, language, and multimodal tasks.
