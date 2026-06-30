@@ -1,7 +1,7 @@
 ---
 title: "Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers"
 authors:
-- "Tobias Christian Nauen"
+- "Tobias Nauen"
 - "Sebastian Palacio"
 - "Federico Raue"
 - "Andreas Dengel"
