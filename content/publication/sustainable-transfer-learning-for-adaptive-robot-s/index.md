@@ -5,7 +5,7 @@ authors:
 - "Vinit Hegiste"
 - "Nigora Gafur"
 - "Achim Wagner"
-- "Martin Ruskwoski"
+- "Martin Ruskowski"
 date: "2025-01-01T00:00:00Z"
 url_source: "https://doi.org/10.1007/978-3-032-02106-9_43"
 doi: "10.1007/978-3-032-02106-9_43"

@@ -1,7 +1,7 @@
 ---
 title: "TaylorShift: Shifting the Complexity of Self-Attention from Squared to Linear (and Back) using Taylor-Softmax"
 authors:
-  - Tobias Christian Nauen
+  - Tobias Nauen
   - Sebastian Palacio
   - Andreas Dengel
 

@@ -1,7 +1,7 @@
 ---
 title: 'Exploring explainability formats to aid decision-making in dairy farming systems'
 authors:
-  - Mengisti Berihu Girmay
+  - Mengisti Berihu
   - Felix Möhrle
 
 

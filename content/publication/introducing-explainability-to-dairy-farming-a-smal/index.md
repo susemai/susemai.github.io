@@ -1,7 +1,7 @@
 ---
 title: "Introducing Explainability to Dairy Farming - A Small Case Study"
 authors:
-- "MB. Girmay"
+- "Mengisti Berihu"
 - "F. Möhrle"
 - "J. Henningsen"
 date: "2025-01-01T00:00:00Z"

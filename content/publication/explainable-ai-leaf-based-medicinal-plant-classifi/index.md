@@ -1,7 +1,7 @@
 ---
 title: "Explainable AI: Leaf-based medicinal plant classification using knowledge distillation"
 authors:
-- "MB. Girmay"
+- "Mengisti Berihu"
 - "S. Obeng"
 - "F. Möhrle"
 date: "2025-01-01T00:00:00Z"

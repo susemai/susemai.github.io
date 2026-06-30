@@ -2,10 +2,10 @@
 title: "HLS4PC: A Parametrizable Framework For Accelerating Point-Based 3D Point Cloud Models on FPGA"
 authors:
 - "A. S. Pal"
-- "M. M. Ghaffar"
+- "Muhammad Mohsin Ghaffar"
 - "F. Shafait"
 - "C. Weis"
-- "N. Wehn"
+- "Norbert Wehn"
 date: "2025-01-01T00:00:00Z"
 publication_types: ['1']
 publication: "HLS4PC: A Parametrizable Framework For Accelerating Point-Based 3D Point Cloud Models on FPGA"

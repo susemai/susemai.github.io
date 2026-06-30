@@ -1,7 +1,7 @@
 ---
 title: 'Explainable AI: Leaf-based medicinal plant classification using knowledge distillation'
 authors:
-  - Mengisti Berihu Girmay
+  - Mengisti Berihu
   - Samuel Obeng
 
 

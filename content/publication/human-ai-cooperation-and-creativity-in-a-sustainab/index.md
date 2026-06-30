@@ -1,9 +1,9 @@
 ---
 title: "Human-AI Cooperation and Creativity in a Sustainable Smart Factory"
 authors:
-- "E. Barbagallo"
+- "Ettore Barbagallo"
 - "J. Nußbaum"
-- "K. Joisten"
+- "Karen Joisten"
 date: "2027-01-01T00:00:00Z"
 publication_types: ['1']
 publication: "Human-AI Cooperation and Creativity in a Sustainable Smart Factory"

@@ -4,7 +4,7 @@ authors:
 - "M. H. Sadi"
 - "C. Sudarshan"
 - "S. Nassif"
-- "N. Wehn"
+- "Norbert Wehn"
 date: "2025-01-01T00:00:00Z"
 publication_types: ['1']
 publication: "Efficient Deep Neural Network Training with a Novel 5.3-bit Block Floating Point Data Format"

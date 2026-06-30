@@ -1,10 +1,10 @@
 ---
 title: "Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers"
 authors:
-  - "Tobias Nauen"
-  - "Sebastian Palacio"
-  - "Federico Raue"
-  - "Andreas Dengel"
+- "Tobias Nauen"
+- "Sebastian Palacio"
+- "Federico Raue"
+- "Andreas Dengel"
 date: "2025-01-01T00:00:00Z"
 url_pdf: "https://openaccess.thecvf.com/content/WACV2025/papers/Nauen_Which_Transformer_to_Favor_A_Comparative_Analysis_of_Efficiency_in_WACV_2025_paper.pdf"
 url_code: "https://github.com/tobna/WhatTransformerToFavor"
