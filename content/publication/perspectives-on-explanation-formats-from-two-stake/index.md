@@ -1,7 +1,7 @@
 ---
 title: "Perspectives on Explanation Formats from Two Stakeholder Groups in Germany: Software Providers and Dairy Farmers"
 authors:
-- "MB. Girmay"
+- "Mengisti Berihu"
 - "F. Möhrle"
 date: "2025-01-01T00:00:00Z"
 publication_types: ['1']

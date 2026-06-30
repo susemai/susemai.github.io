@@ -3,12 +3,12 @@ title: "Comparative Analysis of the Detection of Dairy Cows During Drinking Even
 authors:
 - "V.S. Mukunda"
 - "A.B. Jagadale"
-- "M.B. Girmay"
+- "Mengisti Berihu"
 - "S. Mashelkar"
 - "F. Möhrle"
 - "F.K. Burkhardt"
 - "J.J. Hayer"
-- "J. Dörr"
+- "Jörg Dörr"
 - "J. Steinhoff-Wagner"
 date: "2025-01-01T00:00:00Z"
 publication_types: ['1']

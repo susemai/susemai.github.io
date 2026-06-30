@@ -1,8 +1,8 @@
 ---
 title: "New Imperatives of Care for a Sustainable Life Equilibrium: Groundwork of a Phenomenological Ethics in the Age of Autotelic Technology"
 authors:
-- "E. Barbagallo"
-- "K. Joisten"
+- "Ettore Barbagallo"
+- "Karen Joisten"
 date: "2025-01-01T00:00:00Z"
 publication_types: ['1']
 publication: "New Imperatives of Care for a Sustainable Life Equilibrium: Groundwork of a Phenomenological Ethics in the Age of Autotelic Technology"
