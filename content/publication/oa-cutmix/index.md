@@ -12,6 +12,9 @@ url_code: "https://github.com/tobna/oa-cutmix"
 links:
   - name: Paper Website
     url: "https://nauen-it.de/publications/oa-cutmix/"
+
+doi: "10.1007/978-3-032-38401-0_32"
+
 publication_types: ["1"]
 publication: "35th International Conference on Artificial Neural Networks (ICANN 2026)"
 
